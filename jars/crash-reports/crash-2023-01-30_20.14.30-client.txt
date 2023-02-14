@@ -1,0 +1,89 @@
+---- Minecraft Crash Report ----
+// Why did you do that?
+
+Time: 2023-01-30, 8:14 p.m.
+Description: Updating screen events
+
+java.lang.NullPointerException: Cannot invoke "net.minecraft.entity.EntityLivingBase.getName()" because the return value of "me.gamingblue.Novac.utils.Invoker.getCurrentTarget()" is null
+	at me.gamingblue.Novac.module.render.NameTags.onEnable(NameTags.java:25)
+	at me.gamingblue.Novac.module.Module.toggle(Module.java:29)
+	at de.Hero.clickgui.elements.ModuleButton.mouseClicked(ModuleButton.java:114)
+	at de.Hero.clickgui.Panel.mouseClicked(Panel.java:116)
+	at de.Hero.clickgui.ClickGUI.mouseClicked(ClickGUI.java:231)
+	at net.minecraft.client.gui.GuiScreen.handleMouseInput(GuiScreen.java:599)
+	at net.minecraft.client.gui.GuiScreen.handleInput(GuiScreen.java:568)
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1778)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1105)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422)
+	at net.minecraft.client.main.Main.main(Main.java:113)
+	at Start.main(Start.java:11)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at me.gamingblue.Novac.module.render.NameTags.onEnable(NameTags.java:25)
+	at me.gamingblue.Novac.module.Module.toggle(Module.java:29)
+	at de.Hero.clickgui.elements.ModuleButton.mouseClicked(ModuleButton.java:114)
+	at de.Hero.clickgui.Panel.mouseClicked(Panel.java:116)
+	at de.Hero.clickgui.ClickGUI.mouseClicked(ClickGUI.java:231)
+	at net.minecraft.client.gui.GuiScreen.handleMouseInput(GuiScreen.java:599)
+	at net.minecraft.client.gui.GuiScreen.handleInput(GuiScreen.java:568)
+
+-- Affected screen --
+Details:
+	Screen name: de.Hero.clickgui.ClickGUI
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityPlayerSP['Player578'/267, l='MpServer', x=518.99, y=68.00, z=246.22]]
+	Chunk stats: MultiplayerChunkCache: 280, 280
+	Level seed: 0
+	Level generator: ID 02 - largeBiomes, ver 0. Features enabled: false
+	Level generator options: 
+	Level spawn location: 584.00,64.00,166.00 - World: (584,64,166), Chunk: (at 8,4,6 in 36,10; contains blocks 576,0,160 to 591,255,175), Region: (1,0; contains chunks 32,0 to 63,31, blocks 512,0,0 to 1023,255,511)
+	Level time: 296751 game time, 296131 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+	Forced entities: 53 total; [EntitySkeleton['Skeleton'/128, l='MpServer', x=551.69, y=57.00, z=184.63], EntityCreeper['Creeper'/129, l='MpServer', x=553.50, y=57.00, z=191.31], EntityZombie['Zombie'/130, l='MpServer', x=547.94, y=56.00, z=189.47], EntityCreeper['Creeper'/131, l='MpServer', x=547.50, y=60.00, z=294.50], EntityCreeper['Creeper'/132, l='MpServer', x=550.50, y=60.00, z=296.50], EntitySpider['Spider'/137, l='MpServer', x=570.50, y=22.00, z=171.50], EntityZombie['Zombie'/138, l='MpServer', x=566.19, y=23.00, z=168.53], EntityZombie['Zombie'/139, l='MpServer', x=564.91, y=23.00, z=174.53], EntityZombie['Zombie'/140, l='MpServer', x=572.50, y=22.00, z=172.50], EntityBat['Bat'/141, l='MpServer', x=564.61, y=23.65, z=170.57], EntityItem['item.item.goldNugget'/142, l='MpServer', x=562.13, y=65.00, z=221.56], EntityPlayerSP['Player578'/267, l='MpServer', x=518.99, y=68.00, z=246.22], EntitySkeleton['Skeleton'/152, l='MpServer', x=586.25, y=22.00, z=169.75], EntityZombie['Zombie'/153, l='MpServer', x=590.50, y=25.00, z=174.50], EntityBat['Bat'/154, l='MpServer', x=593.08, y=25.20, z=178.55], EntityZombie['Zombie'/155, l='MpServer', x=586.06, y=51.00, z=229.47], EntitySkeleton['Skeleton'/156, l='MpServer', x=589.91, y=28.00, z=317.50], EntityCreeper['Creeper'/157, l='MpServer', x=583.66, y=28.00, z=319.00], EntityBat['Bat'/160, l='MpServer', x=595.15, y=15.76, z=181.10], EntitySkeleton['Skeleton'/292, l='MpServer', x=555.50, y=19.00, z=179.50], EntityZombie['Zombie'/164, l='MpServer', x=596.50, y=15.00, z=256.50], EntityBat['Bat'/165, l='MpServer', x=598.55, y=26.70, z=276.95], EntitySkeleton['Skeleton'/166, l='MpServer', x=593.50, y=28.00, z=323.16], EntitySkeleton['Skeleton'/296, l='MpServer', x=572.50, y=54.00, z=305.50], EntitySkeleton['Skeleton'/297, l='MpServer', x=575.50, y=54.00, z=307.50], EntityXPOrb['Experience Orb'/186, l='MpServer', x=635.66, y=62.39, z=212.97], EntityXPOrb['Experience Orb'/200, l='MpServer', x=652.41, y=64.00, z=201.97], EntityXPOrb['Experience Orb'/75, l='MpServer', x=426.88, y=70.00, z=334.02], EntityXPOrb['Experience Orb'/77, l='MpServer', x=441.84, y=71.00, z=336.66], EntitySkeleton['Skeleton'/87, l='MpServer', x=462.50, y=19.00, z=280.50], EntityXPOrb['Experience Orb'/92, l='MpServer', x=458.34, y=71.00, z=354.13], EntityBat['Bat'/94, l='MpServer', x=467.40, y=16.43, z=203.46], EntityBat['Bat'/95, l='MpServer', x=475.25, y=59.01, z=230.97], EntitySkeleton['Skeleton'/96, l='MpServer', x=471.50, y=19.00, z=283.50], EntitySkeleton['Skeleton'/97, l='MpServer', x=469.50, y=19.00, z=282.50], EntitySkeleton['Skeleton'/98, l='MpServer', x=469.28, y=18.00, z=288.19], EntityZombie['Zombie'/102, l='MpServer', x=489.50, y=33.00, z=270.58], EntityCreeper['Creeper'/103, l='MpServer', x=490.69, y=32.00, z=273.03], EntityZombie['Zombie'/104, l='MpServer', x=491.56, y=32.00, z=273.53], EntityZombie['Zombie'/105, l='MpServer', x=490.47, y=32.00, z=272.13], EntitySkeleton['Skeleton'/110, l='MpServer', x=500.50, y=32.00, z=271.50], EntityCreeper['Creeper'/111, l='MpServer', x=504.50, y=35.00, z=260.50], EntitySkeleton['Skeleton'/112, l='MpServer', x=511.84, y=29.00, z=280.38], EntitySkeleton['Skeleton'/118, l='MpServer', x=517.50, y=31.00, z=223.50], EntityBat['Bat'/119, l='MpServer', x=515.63, y=32.25, z=216.58], EntityBat['Bat'/120, l='MpServer', x=517.01, y=31.98, z=222.95], EntitySkeleton['Skeleton'/121, l='MpServer', x=543.50, y=19.00, z=170.50], EntitySkeleton['Skeleton'/122, l='MpServer', x=529.84, y=57.00, z=181.16], EntityCreeper['Creeper'/123, l='MpServer', x=532.50, y=57.00, z=181.50], EntitySpider['Spider'/124, l='MpServer', x=555.97, y=18.00, z=168.47], EntitySkeleton['Skeleton'/125, l='MpServer', x=557.19, y=18.00, z=168.25], EntityZombie['Zombie'/126, l='MpServer', x=550.50, y=18.00, z=169.50], EntityZombie['Zombie'/127, l='MpServer', x=554.06, y=56.00, z=174.44]]
+	Retry entities: 0 total; []
+	Server brand: vanilla
+	Server type: Integrated singleplayer server
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.addWorldInfoToCrashReport(WorldClient.java:390)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2751)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:443)
+	at net.minecraft.client.main.Main.main(Main.java:113)
+	at Start.main(Start.java:11)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8.8
+	Operating System: Windows 10 (amd64) version 10.0
+	CPU: 8x Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
+	Java Version: 17.0.5, Eclipse Adoptium
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Eclipse Adoptium
+	Memory: 690245680 bytes (658 MB) / 1073741824 bytes (1024 MB) up to 1073741824 bytes (1024 MB)
+	JVM Flags: 3 total; -XX:+ShowCodeDetailsInExceptionMessages -Xmx1024M -Xms1024M
+	IntCache: cache: 0, tcache: 61, allocated: 13, tallocated: 99
+	Launched Version: mcp
+	LWJGL: 2.9.4
+	OpenGL: NVIDIA GeForce RTX 3060/PCIe/SSE2 GL version 4.6.0 NVIDIA 527.56, NVIDIA Corporation
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: No
+	Is Modded: Very likely; Jar signature invalidated
+	Type: Client (map_client.txt)
+	Resource Packs: bSleepdless_1916x10.zip
+	Current Language: Canadian English (Canada)
+	Profiler Position: N/A (disabled)
+	CPU: 8x Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz

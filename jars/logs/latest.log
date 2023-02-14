@@ -1,0 +1,813 @@
+[15:04:29] [Client thread/INFO]: Setting user: Player703
+[15:04:29] [Client thread/INFO]: (Session ID is token:0:Player703)
+[15:04:30] [Client thread/INFO]: LWJGL Version: 2.9.4
+[15:04:31] [Client thread/INFO]: Reloading ResourceManager: Default, bSleepdless_1916x10.zip
+[15:04:31] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[15:04:31] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[15:04:31] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[15:04:31] [Thread-6/INFO]: OpenAL initialized.
+[15:04:32] [Sound Library Loader/INFO]: Sound engine started
+[15:04:35] [Client thread/INFO]: Created: 512x512 textures-atlas
+[15:04:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:39] [Client thread/ERROR]: @ Post render
+[15:04:39] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:39] [Client thread/ERROR]: @ Post render
+[15:04:39] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:39] [Client thread/ERROR]: @ Post render
+[15:04:39] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:39] [Client thread/ERROR]: @ Post render
+[15:04:39] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:39] [Client thread/ERROR]: @ Post render
+[15:04:39] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:40] [Client thread/ERROR]: @ Post render
+[15:04:40] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:41] [Client thread/ERROR]: @ Post render
+[15:04:41] [Client thread/ERROR]: 1283: Stack overflow
+[15:04:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:04:42] [Client thread/ERROR]: @ Post render
+[15:04:42] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:00] [Client thread/ERROR]: @ Post render
+[15:05:00] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:01] [Client thread/ERROR]: @ Post render
+[15:05:01] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:03] [Client thread/ERROR]: @ Post render
+[15:05:03] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:03] [Client thread/ERROR]: @ Post render
+[15:05:03] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:03] [Client thread/ERROR]: @ Post render
+[15:05:03] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:03] [Client thread/ERROR]: @ Post render
+[15:05:03] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:03] [Client thread/ERROR]: @ Post render
+[15:05:03] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:03] [Client thread/ERROR]: @ Post render
+[15:05:03] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:03] [Client thread/ERROR]: @ Post render
+[15:05:03] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:03] [Client thread/ERROR]: @ Post render
+[15:05:03] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:03] [Client thread/ERROR]: @ Post render
+[15:05:03] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:03] [Client thread/ERROR]: @ Post render
+[15:05:03] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:04] [Client thread/ERROR]: @ Post render
+[15:05:04] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:04] [Client thread/ERROR]: @ Post render
+[15:05:04] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:04] [Client thread/ERROR]: @ Post render
+[15:05:04] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:04] [Client thread/ERROR]: @ Post render
+[15:05:04] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:04] [Client thread/ERROR]: @ Post render
+[15:05:04] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:04] [Client thread/ERROR]: @ Post render
+[15:05:04] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:04] [Client thread/ERROR]: @ Post render
+[15:05:04] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:04] [Client thread/ERROR]: @ Post render
+[15:05:04] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:04] [Client thread/ERROR]: @ Post render
+[15:05:04] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:04] [Client thread/ERROR]: @ Post render
+[15:05:04] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:04] [Client thread/ERROR]: @ Post render
+[15:05:04] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:04] [Client thread/ERROR]: @ Post render
+[15:05:04] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:04] [Client thread/ERROR]: @ Post render
+[15:05:04] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:04] [Client thread/ERROR]: @ Post render
+[15:05:04] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:04] [Client thread/ERROR]: @ Post render
+[15:05:04] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:04] [Client thread/ERROR]: @ Post render
+[15:05:04] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:04] [Client thread/ERROR]: @ Post render
+[15:05:04] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:07] [Client thread/INFO]: Connecting to mc.hycraft.us, 25565
+[15:05:07] [Client thread/INFO]: [CHAT] §e§lCUENTA §8» §aDebes escribir el texto del mapa en §eel §echat §epara §everificarte.
+[15:05:07] [Client thread/INFO]: [CHAT] A new §eOptiFine§f version is available: §eHD Ultra I7§f
+[15:05:07] [Client thread/INFO]: [CHAT] §eOpenGL Error§f: 1283 (Stack overflow)
+[15:05:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:07] [Client thread/ERROR]: @ Post render
+[15:05:07] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:21] [Client thread/INFO]: [CHAT] CUENTA » Haz pasado la prueba correctamente.
+[15:05:21] [Client thread/INFO]: [CHAT] §e§lCUENTA §8» §f¿Eres nuevo? Usa §b/register pass pass
+[15:05:33] [Client thread/INFO]: [CHAT] §e§lCUENTA §8» §f¡Te has registrado correctamente!
+[15:05:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:33] [Client thread/ERROR]: @ Post render
+[15:05:33] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:39] [Client thread/INFO]: [CHAT] You are already trying to connect to a server!
+[15:05:40] [Client thread/INFO]: [CHAT] You are already trying to connect to a server!
+[15:05:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[15:05:42] [Client thread/ERROR]: @ Post render
+[15:05:42] [Client thread/ERROR]: 1283: Stack overflow
+[15:05:47] [Client thread/INFO]: [CHAT] You are already trying to connect to a server!
+[15:05:48] [Client thread/INFO]: [CHAT] You are already trying to connect to a server!
+[15:05:48] [Client thread/INFO]: [CHAT] You are already trying to connect to a server!
+[15:06:08] [Client thread/INFO]: [CHAT] Unable to connect you to SWLobby-1. Please try again later.
+[15:06:39] [Client thread/INFO]: [CHAT] SkyWars » ¡Una partida de Bed Sky esta por empezar! ¡CLICK PARA ENTRAR!
+[15:06:47] [Client thread/INFO]: [CHAT] » ¡?Heroe?Young_Extaziz se ha unido al servidor!
+[15:06:48] [Client thread/INFO]: [CHAT] » ¡?Legend?DumboBR se ha unido al servidor!
+[15:06:50] [Client thread/INFO]: [CHAT] » Enviando al servidor swmini53YQ.
+[15:06:51] [Client thread/INFO]: [CHAT] No translate messages.improvedDivision
+[15:06:51] [Client thread/INFO]: [CHAT] » squidtit se ha unido a la partida (1/12)
+[15:06:51] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[15:07:18] [Client thread/INFO]: [CHAT] » killermoTW se ha unido a la partida (2/12)
+[15:07:20] [Client thread/INFO]: [CHAT] » RZM se ha unido a la partida (3/12)
+[15:07:21] [Client thread/INFO]: [CHAT] La partida comenzará en 30 segundos.
+[15:07:26] [Client thread/INFO]: [CHAT] » aaron_gc se ha unido a la partida (4/12)
+[15:07:26] [Client thread/INFO]: [CHAT] » Arriz se ha unido a la partida (5/12)
+[15:07:31] [Client thread/INFO]: [CHAT] La partida comenzará en 20 segundos.
+[15:07:37] [Client thread/INFO]: [CHAT] » elprodegero se ha unido a la partida (6/12)
+[15:07:41] [Client thread/INFO]: [CHAT] La partida comenzará en 10 segundos.
+[15:07:42] [Client thread/INFO]: [CHAT] No translate messages.noCoins
+[15:07:46] [Client thread/INFO]: [CHAT] La partida comenzará en 5 segundos.
+[15:07:47] [Client thread/INFO]: [CHAT] La partida comenzará en 4 segundos.
+[15:07:48] [Client thread/INFO]: [CHAT] La partida comenzará en 3 segundos.
+[15:07:49] [Client thread/INFO]: [CHAT] La partida comenzará en 2 segundos.
+[15:07:50] [Client thread/INFO]: [CHAT] La partida comenzará en 1 segundo.
+[15:07:51] [Client thread/INFO]: [CHAT]      
+[15:07:51] [Client thread/INFO]: [CHAT]                                  SKYWARS
+[15:07:51] [Client thread/INFO]: [CHAT]      
+[15:07:51] [Client thread/INFO]: [CHAT]                 Equipate de armadura y herramientas
+[15:07:51] [Client thread/INFO]: [CHAT]                    y elimina a todos tus oponentes.
+[15:07:51] [Client thread/INFO]: [CHAT]                           El último en pie gana.
+[15:07:51] [Client thread/INFO]: [CHAT]      
+[15:07:51] [Client thread/INFO]: [CHAT]                                mc.hycraft.us
+[15:07:51] [Client thread/INFO]: [CHAT]      
+[15:07:52] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '+PUHOWOD_573'.
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '+PUHOWOD_573'.
+	at net.minecraft.scoreboard.Scoreboard.removePlayerFromTeam(Scoreboard.java:357) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1990) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[15:08:32] [Client thread/INFO]: [CHAT] killermoTW se cayó al vacío.
+[15:08:46] [Client thread/INFO]: [CHAT] RZM fue asesinado por squidtit.
+[15:08:59] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '+PUHOWOD_573'.
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '+PUHOWOD_573'.
+	at net.minecraft.scoreboard.Scoreboard.removePlayerFromTeam(Scoreboard.java:357) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1990) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[15:09:04] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '+PUHOWOD_573'.
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '+PUHOWOD_573'.
+	at net.minecraft.scoreboard.Scoreboard.removePlayerFromTeam(Scoreboard.java:357) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1990) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[15:09:21] [Client thread/INFO]: [CHAT] Se han rellenado los cofres!
+[15:09:32] [Client thread/INFO]: [CHAT] Arriz fue empujado a un volcan por squidtit
+[15:09:46] [Client thread/INFO]: [CHAT] 
+[15:09:46] [Client thread/INFO]: [CHAT] ¡Acabas de cumplir el reto!
+[15:09:46] [Client thread/INFO]: [CHAT] » Alimentando el vacío
+[15:09:46] [Client thread/INFO]: [CHAT]      
+[15:09:46] [Client thread/INFO]: [CHAT] ? ¡Puedes completar 9 más hoy!
+[15:09:46] [Client thread/INFO]: [CHAT]       
+[15:09:46] [Client thread/INFO]: [CHAT] aaron_gc fue empujado a un volcan por squidtit
+[15:09:46] [Client thread/INFO]: [CHAT] » ¿Quieres jugar otra partida? CLICK AQUI
+[15:09:46] [Client thread/INFO]: [CHAT] » ¿Quieres activar el modo automatico? CLICK AQUI
+[15:09:46] [Client thread/INFO]: [CHAT] » ¿Quieres activar el modo rusher? CLICK AQUI
+[15:09:46] [Client thread/INFO]: [CHAT] » Te ha gustado el mapa? Calificalo: (5) (4) (3) (2) (1)
+[15:09:46] [Client thread/INFO]: [CHAT]                                          
+[15:09:46] [Client thread/INFO]: [CHAT]                            Ganador - squidtit
+[15:09:46] [Client thread/INFO]: [CHAT]                                          
+[15:09:46] [Client thread/INFO]: [CHAT]                               #1 squidtit - 3
+[15:09:46] [Client thread/INFO]: [CHAT]                            #2 elprodegero - 0
+[15:09:46] [Client thread/INFO]: [CHAT]                                #3 Arriz - 0
+[15:09:46] [Client thread/INFO]: [CHAT]                                          
+[15:09:46] [Client thread/INFO]: [CHAT]      
+[15:09:46] [Client thread/INFO]: [CHAT]                      Resumen de Recompensas
+[15:09:46] [Client thread/INFO]: [CHAT]      
+[15:09:46] [Client thread/INFO]: [CHAT]  Has obtenido:
+[15:09:46] [Client thread/INFO]: [CHAT]  • Monedas (SkyWars) ? +65 ?
+[15:09:46] [Client thread/INFO]: [CHAT]  • Experiencia (SkyWars) ? +68
+[15:09:46] [Client thread/INFO]: [CHAT]  • Almas (SkyWars) ? +8
+[15:09:46] [Client thread/INFO]: [CHAT]      
+[15:09:46] [Client thread/INFO]: [CHAT]                         (Detalles con el cursor)
+[15:09:46] [Client thread/INFO]: [CHAT]      
+[15:09:56] [Client thread/INFO]: [CHAT] » Tienes la cola automatica activada. serás enviado a otra partida.
+[15:09:56] [Client thread/INFO]: [CHAT] » Enviando al servidor swmini62ML.
+[15:09:56] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '+PUHOWOD_573'.
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '+PUHOWOD_573'.
+	at net.minecraft.scoreboard.Scoreboard.removePlayerFromTeam(Scoreboard.java:357) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1990) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[15:09:56] [Client thread/INFO]: [CHAT] » squidtit se ha unido a la partida (6/16)
+[15:09:56] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[15:09:56] [Client thread/INFO]: [CHAT] La partida comenzará en 30 segundos.
+[15:09:56] [Client thread/INFO]: [CHAT] » Arriz se ha unido a la partida (7/16)
+[15:09:56] [Client thread/INFO]: [CHAT] » zetansio se ha unido a la partida (8/16)
+[15:09:56] [Client thread/INFO]: [CHAT] » ReneeeVD se ha unido a la partida (9/16)
+[15:09:57] [Client thread/INFO]: [CHAT] » tric_ka se ha unido a la partida (10/16)
+[15:09:57] [Client thread/INFO]: [CHAT] » B_L_A_D_U se ha unido a la partida (11/16)
+[15:09:57] [Client thread/INFO]: [CHAT] » mioyo9 se ha unido a la partida (12/16)
+[15:09:58] [Client thread/INFO]: [CHAT] » zGabrix se ha unido a la partida (13/16)
+[15:09:59] [Client thread/INFO]: [CHAT] » TheRoockie se ha unido a la partida (14/16)
+[15:09:59] [Client thread/INFO]: [CHAT] » Moscaaa se ha unido a la partida (15/16)
+[15:10:00] [Client thread/INFO]: [CHAT] ¡SERVIDOR LLENO! La partida iniciará pronto.
+[15:10:00] [Client thread/INFO]: [CHAT] » xaaww se ha unido a la partida (16/16)
+[15:10:01] [Client thread/INFO]: [CHAT] La partida comenzará en 5 segundos.
+[15:10:15] [Client thread/INFO]: [CHAT] » ¡?Heroe?viceeh se ha unido al servidor!
+[15:10:23] [Client thread/INFO]: [CHAT] » ¡?Legend?Sebitas__ se ha unido al servidor!
+[15:11:01] [Client thread/INFO]: [CHAT] » Enviando al servidor swmini53YQ.
+[15:11:01] [Client thread/INFO]: [CHAT] » squidtit se ha unido a la partida (1/16)
+[15:11:01] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[15:12:09] [Client thread/INFO]: [CHAT] » ThisNutella se ha unido a la partida (2/16)
+[15:12:15] [Client thread/INFO]: [CHAT] » ThisNutella ha dejado la partida (1/16)
+[15:12:16] [Client thread/INFO]: [CHAT] » okuma4sd20 se ha unido a la partida (2/16)
+[15:12:19] [Client thread/INFO]: [CHAT] » okuma4sd20 ha dejado la partida (1/16)
+[15:12:54] [Client thread/INFO]: [CHAT] ------------ SOCIAL --------------
+
+¿Deseas ver las redes de alguien para seguirlo
+o simplemente quieres socializar?
+ 
+[?] COMANDO: /redes <usuario>
+
+---------------------------------
+[15:14:14] [Client thread/INFO]: [CHAT] SkyWars » ¡Una partida de Bed Sky esta por empezar! ¡CLICK PARA ENTRAR!
+[15:14:18] [Client thread/INFO]: [CHAT] SkyWars » ¡Una partida de TNT Madness esta por empezar! ¡CLICK PARA ENTRAR!
+[15:14:20] [Client thread/INFO]: [CHAT] » Enviando al servidor swmini62ML.
+[15:14:20] [Client thread/INFO]: [CHAT] » squidtit se ha unido a la partida (22/23)
+[15:14:20] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[15:14:22] [Client thread/INFO]: [CHAT] » elyonier1 ha dejado la partida (21/23)
+[15:14:23] [Client thread/INFO]: [CHAT] » Kiara753951 se ha unido a la partida (22/23)
+[15:14:24] [Client thread/INFO]: [CHAT] » elprodegero ha dejado la partida (21/23)
+[15:14:26] [Client thread/INFO]: [CHAT] » iYalex_ se ha unido a la partida (22/23)
+[15:14:27] [Client thread/INFO]: [CHAT] Kirtpel: sin kit como siempre
+[15:14:27] [Client thread/INFO]: [CHAT] La partida comenzará en 10 segundos.
+[15:14:30] [Client thread/INFO]: [CHAT] ¡SERVIDOR LLENO! La partida iniciará pronto.
+[15:14:30] [Client thread/INFO]: [CHAT] » Alonso_585 se ha unido a la partida (23/23)
+[15:14:30] [Client thread/INFO]: [CHAT] La partida comenzará en 5 segundos.
+[15:14:31] [Client thread/INFO]: [CHAT] La partida comenzará en 4 segundos.
+[15:14:32] [Client thread/INFO]: [CHAT] La partida comenzará en 3 segundos.
+[15:14:33] [Client thread/INFO]: [CHAT] Koeoier: yo tmb
+[15:14:33] [Client thread/INFO]: [CHAT] La partida comenzará en 2 segundos.
+[15:14:34] [Client thread/INFO]: [CHAT] La partida comenzará en 1 segundo.
+[15:14:36] [Client thread/INFO]: [CHAT]      
+[15:14:36] [Client thread/INFO]: [CHAT]                                  SKYWARS
+[15:14:36] [Client thread/INFO]: [CHAT]      
+[15:14:36] [Client thread/INFO]: [CHAT]                 Equipate de armadura y herramientas
+[15:14:36] [Client thread/INFO]: [CHAT]                    y elimina a todos tus oponentes.
+[15:14:36] [Client thread/INFO]: [CHAT]                           El último en pie gana.
+[15:14:36] [Client thread/INFO]: [CHAT]      
+[15:14:36] [Client thread/INFO]: [CHAT]                                mc.hycraft.us
+[15:14:36] [Client thread/INFO]: [CHAT]      
+[15:14:36] [Client thread/INFO]: [CHAT] Tipo de Cofres: OP - 1
+[15:14:36] [Client thread/INFO]: [CHAT] Tiempo: NOCHE - 1
+[15:14:43] [Client thread/INFO]: [CHAT] zRun_ fue empujado a un volcan por TheZenKai
+[15:14:45] [Client thread/INFO]: [CHAT] dylan_YZ se cayó al vacío.
+[15:14:47] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '+PUNEGWP_534'.
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '+PUNEGWP_534'.
+	at net.minecraft.scoreboard.Scoreboard.removePlayerFromTeam(Scoreboard.java:357) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1990) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[15:14:48] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '+PUNEGWP_534'.
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '+PUNEGWP_534'.
+	at net.minecraft.scoreboard.Scoreboard.removePlayerFromTeam(Scoreboard.java:357) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1990) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[15:14:55] [Client thread/INFO]: [CHAT] zetansio fue empujado a un volcan por vcarlitospv
+[15:14:58] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '+PUNEGWP_534'.
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '+PUNEGWP_534'.
+	at net.minecraft.scoreboard.Scoreboard.removePlayerFromTeam(Scoreboard.java:357) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1990) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[15:14:59] [Client thread/INFO]: [CHAT] ?Legend?DumboBR: Kiara753951
+[15:15:00] [Client thread/INFO]: [CHAT] Alonso_585 fue asesinado por Sebxstix.
+[15:15:01] [Client thread/INFO]: [CHAT] RaMiRo34567: hola
+[15:15:04] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '+PUNEGWP_534'.
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.IllegalStateException: Player is either on another team or not on any team. Cannot remove from team '+PUNEGWP_534'.
+	at net.minecraft.scoreboard.Scoreboard.removePlayerFromTeam(Scoreboard.java:357) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1990) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[15:15:04] [Client thread/INFO]: [CHAT] RaMiRo34567: noooo
+[15:15:04] [Client thread/INFO]: [CHAT] You were kicked from swmini62ML: Internal Exception
+[15:49:53] [Client thread/INFO]: Stopping!
+[15:49:53] [Client thread/INFO]: SoundSystem shutting down...
+[15:49:53] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

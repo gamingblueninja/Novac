@@ -1,0 +1,13 @@
+package me.gamingblue.Novac.module.combat;
+
+import org.lwjgl.input.Keyboard;
+
+import me.gamingblue.Novac.module.Category;
+
+public class AutoClicker {
+	
+	public AutoClicker() {
+		super("AutoClick", Keyboard.KEY_0, Category.COMBAT);
+	}
+}
+//mc.gameSettings.keyBindAttack.pressed = true;

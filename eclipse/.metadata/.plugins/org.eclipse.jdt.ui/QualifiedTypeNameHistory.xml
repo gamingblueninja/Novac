@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="net.minecraft.client.gui.GuiScreen"/>
+    <fullyQualifiedTypeName name="me.gamingblue.Novac.gui.MainMenu"/>
+    <fullyQualifiedTypeName name="me.gamingblueninja.Novac.Novac"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.renderer.GlStateManager"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.gui.GuiSelectWorld"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.gui.GuiMultiplayer"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.gui.GuiOptions"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.gui.GuiLanguage"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.entity.EntityPlayerSP"/>
+    <fullyQualifiedTypeName name="me.gamingblue.Novac.alt.GuiAltManager"/>
+</qualifiedTypeNameHistroy>

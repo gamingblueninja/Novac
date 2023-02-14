@@ -1,0 +1,68 @@
+package me.gamingblue.Novac.gui;
+
+import java.util.Comparator;
+
+import me.gamingblue.Novac.module.render.NameTags;
+import me.gamingblue.Novac.module.Module;
+import me.gamingblue.Novac.utils.ColorUtils;
+import me.gamingblue.Novac.utils.Invoker;
+import me.gamingblue.Novac.utils.Wrapper;
+import me.gamingblueninja.Novac.Novac;
+import net.minecraft.client.Minecraft;
+import net.minecraft.client.gui.Gui;
+import net.minecraft.client.gui.GuiIngame;
+import net.minecraft.client.gui.ScaledResolution;
+
+public class GuiIngameHook extends GuiIngame {
+    protected Minecraft mc = Minecraft.getMinecraft();
+    private int maxListLength;
+
+    public GuiIngameHook(Minecraft mcIn) {
+        super(mcIn);
+    }
+
+    public void renderGameOverlay(float partialTicks) {
+        super.renderGameOverlay(partialTicks);
+
+        if (!mc.gameSettings.showDebugInfo) {
+            Wrapper.fr.drawString("Novac " + Novac.version, 4, 4, 0xbaa0da);
+            Wrapper.fr.drawString("FPS: " + mc.getDebugFPS(), 65, 4, -10000000);
+
+            if (Invoker.getCurrentTarget() != null) {
+                String name = Invoker.getCurrentTarget().getName();
+                Wrapper.fr.drawString("Player Hp = ", 4, 14, -10000000);
+                Wrapper.fr.drawString(name, 30, 14, -10000000);
+            }
+
+            renderModuleList();
+        }
+    }
+
+    private void renderModuleList() {
+        int yCount = 0;
+        int index = 0;
+        long x = 0;
+        Novac.instance.moduleManager.getModules().sort(Comparator.comparingInt(m -> Wrapper.fr.getStringWidth(((Module) m).getName())).reversed());
+
+        ScaledResolution sr = new ScaledResolution(mc);
+        maxListLength = (int) (sr.getScaledHeight() * 0.8);
+
+        for (Module m : Novac.instance.moduleManager.getModules()) {
+            m.onRender();
+
+            if (m.isToggled()) {
+                double offset = yCount * (Wrapper.fr.FONT_HEIGHT + 1);
+                int width = sr.getScaledWidth() - Wrapper.fr.getStringWidth(m.getName()) - 1;
+
+                if (offset < maxListLength) {
+                    Gui.drawRect(width, offset, sr.getScaledWidth(), 1 + Wrapper.fr.FONT_HEIGHT + offset, 0x80000000);
+                    Wrapper.fr.drawString(m.getName(), width, 1 + offset, ColorUtils.rainbowEffect(index + x * 200000000L, 1.0f).getRGB());
+                    yCount++;
+                }
+
+                index++;
+                x++;
+            }
+        }
+    }
+}

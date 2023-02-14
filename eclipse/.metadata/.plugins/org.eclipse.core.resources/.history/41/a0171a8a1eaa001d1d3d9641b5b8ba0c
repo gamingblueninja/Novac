@@ -1,0 +1,119 @@
+package me.gamingblue.Novac.module.combat;
+
+import java.util.Iterator;
+
+import org.lwjgl.input.Keyboard;
+
+import de.Hero.settings.Setting;
+import me.gamingblue.Novac.module.Category;
+import me.gamingblue.Novac.module.Module;
+import me.gamingblue.Novac.utils.Invoker;
+import net.minecraft.client.entity.EntityPlayerSP;
+import net.minecraft.client.settings.KeyBinding;
+import net.minecraft.entity.Entity;
+import net.minecraft.entity.EntityLivingBase;
+import net.minecraft.entity.monster.EntityMob;
+import net.minecraft.entity.passive.EntityAnimal;
+import net.minecraft.network.play.server.S12PacketEntityVelocity;
+import net.minecraft.util.MathHelper;
+import net.minecraft.client.renderer.GlStateManager;
+import net.minecraft.client.renderer.ItemRenderer;
+
+public class KillAura extends Module{
+    private float targetYaw;
+    private float targetPitch;
+    private Setting delay;
+    private Invoker invoker;
+    public EntityLivingBase currentTarget = null;
+
+    
+    String Targetname;{
+	if (Invoker.getCurrentTarget() != null) {
+		System.out.println("Target found!");
+		Targetname = Invoker.getCurrentTarget().getName();
+	}
+    }
+    
+    
+    public KillAura()
+    {
+        super("KillAura", Keyboard.KEY_C, Category.COMBAT);
+        this.delay = new Setting("Delay", this, 100, 0, 500, true);
+        this.invoker = new Invoker();
+    }
+
+    public void onDisable() {
+        mc.gameSettings.keyBindUseItem.pressed = false;
+    }
+//made by connorivanxdd
+//vulcan killaura rotations
+//do not remove this watermark.
+    @Override
+    public void onUpdate() {
+        if(!this.isToggled()) return;
+        for(Iterator<Entity> entities = mc.theWorld.loadedEntityList.iterator(); entities.hasNext();) {
+
+            Object theObject = entities.next();
+            if(theObject instanceof EntityLivingBase) {
+                EntityLivingBase entity = (EntityLivingBase) theObject;
+                if(entity instanceof EntityPlayerSP) continue;
+                if(currentTarget == null) {
+                    currentTarget = entity;
+                    Invoker.setCurrentTarget(entity);      
+                } else {
+                    double distanceToCurrentTarget = mc.thePlayer.getDistanceToEntity(currentTarget);
+                    double distanceToEntity = mc.thePlayer.getDistanceToEntity(entity);
+                    if(distanceToEntity < distanceToCurrentTarget) {
+                        currentTarget = entity;
+                    }
+                }
+                if(mc.thePlayer.getDistanceToEntity(currentTarget) < 4 && currentTarget.isEntityAlive() == true && !currentTarget.isInvisibleToPlayer(mc.thePlayer)) {
+                    //Calculate the angle to the target entity
+                    double xDiff = currentTarget.posX - mc.thePlayer.posX;
+                    double zDiff = currentTarget.posZ - mc.thePlayer.posZ;
+                    double yDiff = (currentTarget.posY + currentTarget.getEyeHeight() - 0.25) - (mc.thePlayer.posY + mc.thePlayer.getEyeHeight());
+                    double dist = Math.sqrt(xDiff * xDiff + zDiff * zDiff + yDiff * yDiff);
+
+                    double yawToEntity = Math.toDegrees(Math.atan2(zDiff, xDiff)) - 90;
+                    double distanceToEntity = Math.sqrt(xDiff * xDiff + zDiff * zDiff);
+                    double pitchToEntity = -Math.toDegrees(Math.atan2(yDiff, distanceToEntity));
+//made by connorivanxdd
+
+
+                    targetYaw = (float) Math.toDegrees(Math.atan2(zDiff, xDiff)) - 90;
+                    targetPitch = (float) Math.toDegrees(Math.asin(yDiff / dist));
+
+                    // Apply rotation
+                    float yawSpeed = 1f; // adjust this value to control the speed of rotation
+                    float pitchSpeed = 1f; // adjust this value to control the speed of rotation
+
+                    // interpolate the player's yaw and pitch towards the target yaw and pitch
+                    mc.thePlayer.rotationYaw = (float) (mc.thePlayer.rotationYaw + MathHelper.wrapAngleTo180_float((float) yawToEntity - mc.thePlayer.rotationYaw) * yawSpeed);
+                    mc.thePlayer.rotationPitch = (float) (mc.thePlayer.rotationPitch + MathHelper.wrapAngleTo180_float((float) pitchToEntity - mc.thePlayer.rotationPitch) * pitchSpeed);
+
+                }
+                if(mc.thePlayer.getDistanceToEntity(entity) > 3.0173613F) {
+                    if(entity.isEntityAlive()) {
+                       
+                    	name = "NONE";
+                        
+                }
+                if(mc.thePlayer.getDistanceToEntity(entity) < 3.0173613F) {
+                    if(entity.isEntityAlive()) {
+                       //mc.playerController.attackEntity(mc.thePlayer, entity);
+                       //mc.gameSettings.keyBindAttack.pressed = true;
+                        //mc.thePlayer.swingItem();
+                        if(entity.hurtTime > 1) {
+                            mc.gameSettings.keyBindUseItem.pressed = false;
+                        }
+                    } else {
+                        mc.gameSettings.keyBindUseItem.pressed = false;
+                    }
+                }
+            }
+        }
+        super.onUpdate();
+        
+    }
+}
+}

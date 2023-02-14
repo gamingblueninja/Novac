@@ -1,0 +1,1042 @@
+[20:15:41] [Client thread/INFO]: Setting user: Player906
+[20:15:41] [Client thread/INFO]: (Session ID is token:0:Player906)
+[20:15:42] [Client thread/INFO]: LWJGL Version: 2.9.4
+[20:15:43] [Client thread/INFO]: Reloading ResourceManager: Default, bSleepdless_1916x10.zip
+[20:15:43] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:15:43] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[20:15:43] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:15:43] [Thread-6/INFO]: OpenAL initialized.
+[20:15:43] [Sound Library Loader/INFO]: Sound engine started
+[20:15:44] [Client thread/INFO]: Created: 512x512 textures-atlas
+[20:15:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:48] [Client thread/ERROR]: @ Post render
+[20:15:48] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:48] [Client thread/ERROR]: @ Post render
+[20:15:48] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:48] [Client thread/ERROR]: @ Post render
+[20:15:48] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:48] [Client thread/ERROR]: @ Post render
+[20:15:48] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:48] [Client thread/ERROR]: @ Post render
+[20:15:48] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:48] [Client thread/ERROR]: @ Post render
+[20:15:48] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:48] [Client thread/ERROR]: @ Post render
+[20:15:48] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:48] [Client thread/ERROR]: @ Post render
+[20:15:48] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:48] [Client thread/ERROR]: @ Post render
+[20:15:48] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:48] [Client thread/ERROR]: @ Post render
+[20:15:48] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:48] [Client thread/ERROR]: @ Post render
+[20:15:48] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:48] [Client thread/ERROR]: @ Post render
+[20:15:48] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:48] [Client thread/ERROR]: @ Post render
+[20:15:48] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:48] [Client thread/ERROR]: @ Post render
+[20:15:48] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:48] [Client thread/ERROR]: @ Post render
+[20:15:48] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:48] [Client thread/ERROR]: @ Post render
+[20:15:48] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:48] [Client thread/ERROR]: @ Post render
+[20:15:48] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:49] [Client thread/ERROR]: @ Post render
+[20:15:49] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:50] [Client thread/ERROR]: @ Post render
+[20:15:50] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:50] [Client thread/ERROR]: @ Post render
+[20:15:50] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:50] [Client thread/ERROR]: @ Post render
+[20:15:50] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:50] [Client thread/ERROR]: @ Post render
+[20:15:50] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:50] [Client thread/ERROR]: @ Post render
+[20:15:50] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:50] [Client thread/ERROR]: @ Post render
+[20:15:50] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:50] [Client thread/ERROR]: @ Post render
+[20:15:50] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:50] [Client thread/ERROR]: @ Post render
+[20:15:50] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:50] [Client thread/ERROR]: @ Post render
+[20:15:50] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:50] [Client thread/ERROR]: @ Post render
+[20:15:50] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:50] [Client thread/ERROR]: @ Post render
+[20:15:50] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:50] [Client thread/ERROR]: @ Post render
+[20:15:50] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:50] [Client thread/ERROR]: @ Post render
+[20:15:50] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:50] [Client thread/ERROR]: @ Post render
+[20:15:50] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:50] [Client thread/ERROR]: @ Post render
+[20:15:50] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:50] [Client thread/ERROR]: @ Post render
+[20:15:50] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:53] [Client thread/ERROR]: @ Post render
+[20:15:53] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:53] [Client thread/ERROR]: @ Post render
+[20:15:53] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:53] [Client thread/ERROR]: @ Post render
+[20:15:53] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:53] [Client thread/ERROR]: @ Post render
+[20:15:53] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:53] [Client thread/ERROR]: @ Post render
+[20:15:53] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:53] [Client thread/ERROR]: @ Post render
+[20:15:53] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:53] [Client thread/ERROR]: @ Post render
+[20:15:53] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:53] [Client thread/ERROR]: @ Post render
+[20:15:53] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:53] [Client thread/ERROR]: @ Post render
+[20:15:53] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:54] [Client thread/ERROR]: @ Post render
+[20:15:54] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:55] [Client thread/ERROR]: @ Post render
+[20:15:55] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:56] [Client thread/ERROR]: @ Post render
+[20:15:56] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:57] [Client thread/ERROR]: @ Post render
+[20:15:57] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:57] [Client thread/ERROR]: @ Post render
+[20:15:57] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:57] [Client thread/ERROR]: @ Post render
+[20:15:57] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:57] [Client thread/ERROR]: @ Post render
+[20:15:57] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:58] [Client thread/INFO]: Connecting to play.z-mc.net, 25565
+[20:15:58] [Client thread/INFO]: [CHAT] A new §eOptiFine§f version is available: §eHD Ultra I7§f
+[20:15:58] [Client thread/INFO]: [CHAT] §eOpenGL Error§f: 1283 (Stack overflow)
+[20:15:58] [Client thread/INFO]: [CHAT] ZMC» Verificando tu conexion...
+[20:15:59] [Client thread/INFO]: [CHAT] ZMC» Has sido verificado correctamente!
+[20:15:59] [Client thread/INFO]: [CHAT] + Player906 se ha conectado
+[20:15:59] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:59] [Client thread/ERROR]: @ Post render
+[20:15:59] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:59] [Client thread/ERROR]: ########## GL ERROR ##########
+[20:15:59] [Client thread/ERROR]: @ Post render
+[20:15:59] [Client thread/ERROR]: 1283: Stack overflow
+[20:15:59] [Client thread/INFO]: [CHAT] +---------------***---------------+
+[20:15:59] [Client thread/INFO]: [CHAT] 
+[20:15:59] [Client thread/INFO]: [CHAT]     Bienvenido, Player906 a ZMC
+[20:15:59] [Client thread/INFO]: [CHAT] 
+[20:15:59] [Client thread/INFO]: [CHAT]   WEB www.z-mc.net
+[20:15:59] [Client thread/INFO]: [CHAT]   TIENDA shop.z-mc.net
+[20:15:59] [Client thread/INFO]: [CHAT]   DISCORD discord.com/invite/HxUcRtQwS3
+[20:15:59] [Client thread/INFO]: [CHAT] 
+[20:15:59] [Client thread/INFO]: [CHAT] +---------------***---------------+
+[20:16:01] [Client thread/INFO]: [CHAT] Inicia sesión con "/login contraseña"
+[20:16:03] [Client thread/INFO]: [CHAT] + FarfarJr se ha conectado
+[20:16:04] [Client thread/INFO]: [CHAT] Inicia sesión con "/login contraseña"
+[20:16:05] [Client thread/INFO]: [CHAT] ¡Sesión iniciada!
+[20:16:09] [Client thread/INFO]: [CHAT] [ChatColor] El color de tu chat actual es: este.
+[20:16:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:16:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:16:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:16:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:16:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeObjective(Scoreboard.java:218) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleScoreboardObjective(NetHandlerPlayClient.java:1887) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:64) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:16:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeObjective(Scoreboard.java:218) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleScoreboardObjective(NetHandlerPlayClient.java:1887) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:64) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:16:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:16:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:16:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:16:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:16:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:16:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:16:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:16:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:16:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:16:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:16:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:16:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:16:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:16:09] [Client thread/INFO]: [CHAT] + [Dioniso] Player906
+[20:16:09] [Client thread/INFO]: [CHAT] [KOTH] El KoTH Viking esta activo en /koths y le quedan 06:49.
+[20:16:13] [Client thread/INFO]: [CHAT] [Dioniso] sneijder_diez » ayuda
+[20:16:22] [Client thread/INFO]: [CHAT] [?Arcade?] [Freyr] Dgamer2002 » kitipasas
+[20:17:34] [Client thread/INFO]: [CHAT] Itz5amuh was slain by sneijder_diez using [§8[§eDioniso§8]]
+[20:17:41] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » XD
+[20:19:07] [Client thread/INFO]: [CHAT] [KOTH] josemota_24 (None) ha perdido el control del koth Viking
+[20:19:07] [Client thread/INFO]: [CHAT] josemota_24 was slain by Itz5amuh using [§8[§c§lOdin§8]]
+[20:19:21] [Client thread/INFO]: [CHAT] [?Arcade?] [Freyr] Dgamer2002 » se me lageo wtf
+[20:19:29] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » eso tilin
+[20:19:31] [Client thread/INFO]: [CHAT] [?Arcade?] [Freyr] Dgamer2002 » quedate con el koth
+[20:19:35] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » voy
+[20:19:47] [Client thread/INFO]: [CHAT] [Dioniso] sneijder_diez » pq me pegaste??
+[20:20:52] [Client thread/INFO]: [CHAT] [KOTH] Itz5amuh (Agua) esta controlando el koth Viking (10:00)
+[20:20:55] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » * campea *
+[20:21:56] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:21:56] [Client thread/INFO]: [CHAT] + [iiOdinii] Tsuukyu
+[20:22:01] [Client thread/INFO]: [CHAT] - [Dioniso] sneijder_diez
+[20:22:05] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » Tsuukyu
+[20:22:06] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » amijo
+[20:22:36] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » Espera que?
+[20:22:42] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » AAA
+[20:22:44] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » no te vi wn
+[20:22:46] [Client thread/INFO]: [CHAT] [Ryodan] [?StandUp?] [iiOdinii] Tsuukyu » jajajajaja
+[20:22:56] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » como andas?
+[20:22:59] [Client thread/INFO]: [CHAT] [Ryodan] [?StandUp?] [iiOdinii] Tsuukyu » te saco cuando te falten medio minuto
+[20:23:06] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » No amigo no seas tan gei
+[20:23:17] [Client thread/INFO]: [CHAT] [Ryodan] [?StandUp?] [iiOdinii] Tsuukyu » xDDD
+[20:23:21] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » :"v
+[20:23:26] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » eso es lo mas doloroso del mundo papu
+[20:23:37] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » tienes discol?
+[20:23:53] [Client thread/INFO]: [CHAT] [Ryodan] [?StandUp?] [iiOdinii] Tsuukyu » xDDDD
+[20:23:56] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » casiiii
+[20:24:17] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » Que
+[20:24:24] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » aaa
+[20:24:29] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » el arco xd
+[20:24:35] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:24:35] [Client thread/INFO]: [CHAT] + [Bragi] ElLichcDMC
+[20:24:40] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » xuxa me sali del koth
+[20:25:00] [Client thread/INFO]: [CHAT] [Ryodan] [?StandUp?] [iiOdinii] Tsuukyu » xDDD
+[20:25:01] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » que
+[20:25:04] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » pq no sale el mensaje?
+[20:25:09] [Client thread/INFO]: [CHAT] [KOTH] Itz5amuh (Agua) ha perdido el control del koth Viking
+[20:25:13] [Client thread/INFO]: [CHAT] [KOTH] Itz5amuh (Agua) esta controlando el koth Viking (10:00)
+[20:25:15] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » NooOOoOO
+[20:25:20] [Client thread/INFO]: [CHAT] [KOTH] Itz5amuh (Agua) ha perdido el control del koth Viking
+[20:25:32] [Client thread/INFO]: [CHAT] [KOTH] Tsuukyu (Ryodan) esta controlando el koth Viking (10:00)
+[20:25:33] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:25:33] [Client thread/INFO]: [CHAT] + [Dioniso] sneijder_diez
+[20:25:49] [Client thread/INFO]: [CHAT] [KOTH] Tsuukyu (Ryodan) ha perdido el control del koth Viking
+[20:25:52] [Client thread/INFO]: [CHAT] [KOTH] Itz5amuh (Agua) esta controlando el koth Viking (10:00)
+[20:26:36] [Client thread/INFO]: [CHAT] [KOTH] Itz5amuh (Agua) ha perdido el control del koth Viking
+[20:26:39] [Client thread/INFO]: [CHAT] [KOTH] Tsuukyu (Ryodan) esta controlando el koth Viking (10:00)
+[20:26:52] [Client thread/INFO]: [CHAT] [KOTH] Tsuukyu (Ryodan) ha perdido el control del koth Viking
+[20:26:57] [Client thread/INFO]: [CHAT] [messi] [?] [Bragi] ElLichcDMC » como se va al koth
+[20:26:57] [Client thread/INFO]: [CHAT] [KOTH] Itz5amuh (Agua) esta controlando el koth Viking (10:00)
+[20:27:06] [Client thread/INFO]: [CHAT] [KOTH] Itz5amuh (Agua) ha perdido el control del koth Viking
+[20:27:09] [Client thread/INFO]: [CHAT] [KOTH] Tsuukyu (Ryodan) esta controlando el koth Viking (10:00)
+[20:27:19] [Client thread/INFO]: [CHAT] [Ryodan] [?StandUp?] [iiOdinii] Tsuukyu » jajajajaja
+[20:27:22] [Client thread/INFO]: [CHAT] [KOTH] Tsuukyu (Ryodan) ha perdido el control del koth Viking
+[20:27:27] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » a eso se le llama el ultra instinto
+[20:27:27] [Client thread/INFO]: [CHAT] [KOTH] Itz5amuh (Agua) esta controlando el koth Viking (10:00)
+[20:27:29] [Client thread/INFO]: [CHAT] [Agua] [?] [Bragi] Itz5amuh » :ghost:
+[20:27:58] [Client thread/INFO]: [CHAT] [KOTH] Itz5amuh (Agua) ha perdido el control del koth Viking
+[20:28:01] [Client thread/INFO]: [CHAT] [KOTH] Itz5amuh (Agua) esta controlando el koth Viking (10:00)
+[20:28:08] [Client thread/INFO]: [CHAT] [KOTH] Itz5amuh (Agua) ha perdido el control del koth Viking
+[20:28:14] [Client thread/INFO]: [CHAT] [KOTH] Tsuukyu (Ryodan) esta controlando el koth Viking (10:00)
+[20:29:16] [Client thread/INFO]: [CHAT] [KOTH] Tsuukyu (Ryodan) ha perdido el control del koth Viking
+[20:29:20] [Client thread/INFO]: [CHAT] [KOTH] Itz5amuh (Agua) esta controlando el koth Viking (10:00)
+[20:29:27] [Client thread/INFO]: [CHAT] [KOTH] Itz5amuh (Agua) ha perdido el control del koth Viking
+[20:29:30] [Client thread/INFO]: [CHAT] [KOTH] Itz5amuh (Agua) esta controlando el koth Viking (10:00)
+[20:29:38] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[20:29:38] [Client thread/INFO]: [CHAT] + [iiBalderii] ?????
+[20:30:09] [Client thread/INFO]: [CHAT] [KOTH] Itz5amuh (Agua) ha perdido el control del koth Viking
+[20:30:11] [Client thread/INFO]: [CHAT] [KOTH] Tsuukyu (Ryodan) esta controlando el koth Viking (10:00)

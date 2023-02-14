@@ -1,0 +1,104 @@
+package me.gamingblue.Novac.module;
+
+import java.util.ArrayList;
+
+import me.gamingblue.Novac.module.combat.*;
+import me.gamingblue.Novac.module.movement.*;
+import me.gamingblue.Novac.module.player.*;
+import me.gamingblue.Novac.module.render.*;
+import me.gamingblueninja.Novac.Novac;
+import net.minecraft.client.Minecraft;
+import net.minecraft.util.ChatComponentText;
+
+public class ModuleManager {
+	
+	private static ArrayList<Module> mods;
+	
+	public ModuleManager() {
+		mods = new ArrayList<Module>();
+		//COMBAT
+		newMod(new FastBow());
+		newMod(new KillAura());
+		newMod(new AutoClicker());
+		
+		
+		//MOVEMENT
+		newMod(new sprint());
+		newMod(new AutoWalk());
+		newMod(new Dolphin());
+		newMod(new Flight());
+		newMod(new Glide());
+		newMod(new Jetpack());
+		newMod(new NoFall());
+		newMod(new Parkour());
+		newMod(new Scaffold());
+		newMod(new Sneak());
+		newMod(new Speed());	
+		newMod(new Spider());
+		newMod(new Step());
+		newMod(new longjump());
+		
+		
+		
+		//PLAYER
+		newMod(new AntiAFK());
+		newMod(new AntiCobweb());
+		newMod(new AutoMine());
+		newMod(new AutoRespawn());
+		newMod(new BunnyHop());
+		newMod(new FastLadder());
+		newMod(new FastPlace());
+		newMod(new Flip());
+		
+
+		
+		
+		
+		//RENDER
+		newMod(new ESP());
+		newMod(new Xray());
+		newMod(new NameTags());
+		
+		
+		
+		newMod(new ClickGui());
+		
+		
+		//MISC
+	}
+	
+	public static void newMod(Module m) {
+		mods.add(m);
+	}
+	
+	public static ArrayList<Module> getModules(){
+		return mods;
+	}
+	
+	public static void onUpdate() {
+		for(Module m : mods) {
+			m.onUpdate();
+		}
+	}
+	
+	public static void onRender() {
+		for(Module m : mods) {
+			m.onRender();
+		}
+	}
+	
+	public static void onKey(int k) {
+		for(Module m : mods) {
+			if(m.getKey() == k) {
+				m.toggle();
+			}
+		}
+	}
+	
+	public static void addChatMessage(String message) {
+		message = "\2479" + Novac.name + "\2477: " + message;
+		
+		Minecraft.getMinecraft().thePlayer.addChatMessage(new ChatComponentText(message));
+	}
+
+}

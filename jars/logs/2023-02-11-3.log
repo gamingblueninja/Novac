@@ -1,0 +1,2551 @@
+[10:28:44] [Client thread/INFO]: Setting user: Player281
+[10:28:44] [Client thread/INFO]: (Session ID is token:0:Player281)
+[10:28:45] [Client thread/INFO]: LWJGL Version: 2.9.4
+[10:28:46] [Client thread/INFO]: Reloading ResourceManager: Default, bSleepdless_1916x10.zip
+[10:28:46] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[10:28:46] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[10:28:46] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[10:28:46] [Thread-6/INFO]: OpenAL initialized.
+[10:28:46] [Sound Library Loader/INFO]: Sound engine started
+[10:28:47] [Client thread/INFO]: Created: 512x512 textures-atlas
+[10:28:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:51] [Client thread/ERROR]: @ Post render
+[10:28:51] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:51] [Client thread/ERROR]: @ Post render
+[10:28:51] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:51] [Client thread/ERROR]: @ Post render
+[10:28:51] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:51] [Client thread/ERROR]: @ Post render
+[10:28:51] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:51] [Client thread/ERROR]: @ Post render
+[10:28:51] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:51] [Client thread/ERROR]: @ Post render
+[10:28:51] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:51] [Client thread/ERROR]: @ Post render
+[10:28:51] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:51] [Client thread/ERROR]: @ Post render
+[10:28:51] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:51] [Client thread/ERROR]: @ Post render
+[10:28:51] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:51] [Client thread/ERROR]: @ Post render
+[10:28:51] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:51] [Client thread/ERROR]: @ Post render
+[10:28:51] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:51] [Client thread/ERROR]: @ Post render
+[10:28:51] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:51] [Client thread/ERROR]: @ Post render
+[10:28:51] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:51] [Client thread/ERROR]: @ Post render
+[10:28:51] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:51] [Client thread/ERROR]: @ Post render
+[10:28:51] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:52] [Client thread/ERROR]: @ Post render
+[10:28:52] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:52] [Client thread/ERROR]: @ Post render
+[10:28:52] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:52] [Client thread/ERROR]: @ Post render
+[10:28:52] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:52] [Client thread/ERROR]: @ Post render
+[10:28:52] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:52] [Client thread/ERROR]: @ Post render
+[10:28:52] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:52] [Client thread/ERROR]: @ Post render
+[10:28:52] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:52] [Client thread/ERROR]: @ Post render
+[10:28:52] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:52] [Client thread/ERROR]: @ Post render
+[10:28:52] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:52] [Client thread/ERROR]: @ Post render
+[10:28:52] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:52] [Client thread/ERROR]: @ Post render
+[10:28:52] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:52] [Client thread/ERROR]: @ Post render
+[10:28:52] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:52] [Client thread/ERROR]: @ Post render
+[10:28:52] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:52] [Client thread/ERROR]: @ Post render
+[10:28:52] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:52] [Client thread/ERROR]: @ Post render
+[10:28:52] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:52] [Client thread/ERROR]: @ Post render
+[10:28:52] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:52] [Client thread/ERROR]: @ Post render
+[10:28:52] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:53] [Client thread/INFO]: Connecting to play.z-mc.net, 25565
+[10:28:54] [Client thread/INFO]: [CHAT] A new §eOptiFine§f version is available: §eHD Ultra I7§f
+[10:28:54] [Client thread/INFO]: [CHAT] §eOpenGL Error§f: 1283 (Stack overflow)
+[10:28:54] [Client thread/INFO]: [CHAT] + Player281 se ha conectado
+[10:28:54] [Client thread/INFO]: [CHAT] +---------------***---------------+
+[10:28:54] [Client thread/INFO]: [CHAT] 
+[10:28:54] [Client thread/INFO]: [CHAT]     Bienvenido, Player281 a ZMC
+[10:28:54] [Client thread/INFO]: [CHAT] 
+[10:28:54] [Client thread/INFO]: [CHAT]   WEB www.z-mc.net
+[10:28:54] [Client thread/INFO]: [CHAT]   TIENDA shop.z-mc.net
+[10:28:54] [Client thread/INFO]: [CHAT]   DISCORD discord.com/invite/HxUcRtQwS3
+[10:28:54] [Client thread/INFO]: [CHAT] 
+[10:28:54] [Client thread/INFO]: [CHAT] +---------------***---------------+
+[10:28:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:28:54] [Client thread/ERROR]: @ Post render
+[10:28:54] [Client thread/ERROR]: 1283: Stack overflow
+[10:28:56] [Client thread/INFO]: [CHAT] Inicia sesión con "/login contraseña"
+[10:28:58] [Client thread/INFO]: [CHAT] ¡Sesión iniciada!
+[10:29:03] [Client thread/INFO]: [CHAT] [ChatColor] El color de tu chat actual es: este.
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeObjective(Scoreboard.java:218) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleScoreboardObjective(NetHandlerPlayClient.java:1887) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:64) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeObjective(Scoreboard.java:218) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleScoreboardObjective(NetHandlerPlayClient.java:1887) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:64) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:29:03] [Client thread/INFO]: [CHAT] + [Dioniso] Player281
+[10:29:03] [Client thread/INFO]: [CHAT] Ingresaste al torneo de Guardianes.
+[10:29:03] [Client thread/INFO]: [CHAT] Ingresaste al torneo de Mineria.
+[10:29:03] [Client thread/INFO]: [CHAT] Ingresaste al torneo de ChatGame.
+[10:29:03] [Client thread/INFO]: [CHAT] Ingresaste al torneo de Tiempo Online.
+[10:29:03] [Client thread/INFO]: [CHAT] Ingresaste al torneo de Suministros.
+[10:29:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:29:04] [Client thread/ERROR]: @ Post render
+[10:29:04] [Client thread/ERROR]: 1283: Stack overflow
+[10:29:10] [Client thread/INFO]: [CHAT] [Maffia] [Hades] ManoloOmg » te tumbe
+[10:29:14] [Client thread/INFO]: [CHAT] [Maffia] [Hades] ManoloOmg » eso es ganar
+[10:29:14] [Client thread/INFO]: [CHAT] [Diva] [?StandUp?] [Freyr] NewTow7u7 » es matar
+[10:29:15] [Client thread/INFO]: [CHAT] Kit dioniso recibido.
+[10:29:17] [Client thread/INFO]: [CHAT] [Diva] [?StandUp?] [Freyr] NewTow7u7 » no tumbar xd
+[10:29:21] [Client thread/INFO]: [CHAT] [Maffia] [Hades] ManoloOmg » ni de coña me meto contigo
+[10:29:31] [Client thread/INFO]: [CHAT] [Maffia] [Hades] ManoloOmg » granar es ganar bro
+[10:29:46] [Client thread/INFO]: [CHAT] [Maffia] [Hades] ManoloOmg » mira esa mondv
+[10:29:57] [Client thread/INFO]: [CHAT] [Maffia] [?Arcade?] [Cronos] zParzy_ » joe tengo 2k de tokens
+[10:29:57] [Client thread/INFO]: [CHAT] [Maffia] [Hades] ManoloOmg » regalame una espada y armor y te ago pvp
+[10:30:08] [Client thread/INFO]: [CHAT] [Maffia] [?Arcade?] [Cronos] zParzy_ » voy a esperar al Man Odin que los compra xd
+[10:30:10] [Client thread/INFO]: [CHAT] [Maffia] [Hades] ManoloOmg » si no mi vergv gigante y jugosa
+[10:30:20] [Client thread/INFO]: [CHAT] [Maffia] [Hades] ManoloOmg » ajjaja
+[10:31:20] [Client thread/INFO]: [CHAT] [Maffia] [Hades] ManoloOmg » pa onde se fue el
+[10:31:24] [Client thread/INFO]: [CHAT] [Maffia] [Hades] ManoloOmg » NewTow7u7
+[10:31:25] [Client thread/INFO]: [CHAT] [Maffia] [?] [Cronos] Galactus » atras
+[10:31:26] [Client thread/INFO]: [CHAT] [Maffia] [Hades] ManoloOmg » xD
+[10:31:32] [Client thread/INFO]: [CHAT] [Maffia] [Hades] ManoloOmg » ?
+[10:31:43] [Client thread/INFO]: [CHAT] [Maffia] [Hades] ManoloOmg » iiish el cuepo espin
+[10:32:15] [Client thread/INFO]: [CHAT] [Maffia] [?] [Cronos] Galactus » NewTow7u7
+[10:32:20] [Client thread/INFO]: [CHAT] [Diva] [?StandUp?] [Freyr] NewTow7u7 » ?
+[10:32:21] [Client thread/INFO]: [CHAT] [Maffia] [?] [Cronos] Galactus » me regalas 300b );:
+[10:32:31] [Client thread/INFO]: [CHAT] [Maffia] [Hades] ManoloOmg » a ?
+[10:32:35] [Client thread/INFO]: [CHAT] [Diva] [?StandUp?] [Freyr] NewTow7u7 » te los daria pero estoy reuniendo para ran kear
+[10:32:35] [Client thread/INFO]: [CHAT] [Maffia] [?] [Cronos] Galactus » xfa
+[10:32:40] [Client thread/INFO]: [CHAT] [Diva] [?StandUp?] [Freyr] NewTow7u7 » y me faltan 17t xd
+[10:32:44] [Client thread/INFO]: [CHAT] [Maffia] [?] [Cronos] Galactus » xD
+[10:32:50] [Client thread/INFO]: [CHAT] [Diva] [?StandUp?] [Freyr] NewTow7u7 » apenas voy 43t
+[10:32:51] [Client thread/INFO]: [CHAT] [Maffia] [?] [Cronos] Galactus » KE TE cuesta 300b ():
+[10:32:54] [Client thread/INFO]: [CHAT] [Maffia] [?] [Cronos] Galactus » waoç
+[10:33:10] [Client thread/INFO]: [CHAT] [Maffia] [?] [Cronos] Galactus » es k m faltas 300b pal otro rank
+[10:33:16] [Client thread/INFO]: [CHAT] [Maffia] [Hades] ManoloOmg » uuuf tokens
+[10:33:17] [Client thread/INFO]: [CHAT] [Maffia] [?] [Cronos] Galactus » vro
+[10:33:18] [Client thread/INFO]: [CHAT] [Maffia] [Hades] ManoloOmg » GG
+[10:33:20] [Client thread/INFO]: [CHAT] [Maffia] [?] [Cronos] Galactus » grasiaz
+[10:52:41] [Client thread/INFO]: Setting user: Player343
+[10:52:41] [Client thread/INFO]: (Session ID is token:0:Player343)
+[10:52:42] [Client thread/INFO]: LWJGL Version: 2.9.4
+[10:52:43] [Client thread/INFO]: Reloading ResourceManager: Default, bSleepdless_1916x10.zip
+[10:52:43] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[10:52:43] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[10:52:43] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[10:52:43] [Thread-5/INFO]: OpenAL initialized.
+[10:52:44] [Sound Library Loader/INFO]: Sound engine started
+[10:52:44] [Client thread/INFO]: Created: 512x512 textures-atlas
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:49] [Client thread/ERROR]: @ Post render
+[10:52:49] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:50] [Client thread/ERROR]: @ Post render
+[10:52:50] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:50] [Client thread/ERROR]: @ Post render
+[10:52:50] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:50] [Client thread/ERROR]: @ Post render
+[10:52:50] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:50] [Client thread/ERROR]: @ Post render
+[10:52:50] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:50] [Client thread/ERROR]: @ Post render
+[10:52:50] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:50] [Client thread/ERROR]: @ Post render
+[10:52:50] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:50] [Client thread/ERROR]: @ Post render
+[10:52:50] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:50] [Client thread/ERROR]: @ Post render
+[10:52:50] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:50] [Client thread/ERROR]: @ Post render
+[10:52:50] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:50] [Client thread/ERROR]: @ Post render
+[10:52:50] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:50] [Client thread/ERROR]: @ Post render
+[10:52:50] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:50] [Client thread/ERROR]: @ Post render
+[10:52:50] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:50] [Client thread/ERROR]: @ Post render
+[10:52:50] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:50] [Client thread/ERROR]: @ Post render
+[10:52:50] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:50] [Client thread/ERROR]: @ Post render
+[10:52:50] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:50] [Client thread/ERROR]: @ Post render
+[10:52:50] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:50] [Client thread/ERROR]: @ Post render
+[10:52:50] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:50] [Client thread/ERROR]: @ Post render
+[10:52:50] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:50] [Client thread/ERROR]: @ Post render
+[10:52:50] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:52] [Client thread/INFO]: Connecting to play.z-mc.net, 25565
+[10:52:52] [Client thread/INFO]: [CHAT] A new §eOptiFine§f version is available: §eHD Ultra I7§f
+[10:52:52] [Client thread/INFO]: [CHAT] §eOpenGL Error§f: 1283 (Stack overflow)
+[10:52:52] [Client thread/INFO]: [CHAT] + Player343 se ha conectado
+[10:52:52] [Client thread/INFO]: [CHAT] +---------------***---------------+
+[10:52:52] [Client thread/INFO]: [CHAT] 
+[10:52:52] [Client thread/INFO]: [CHAT]     Bienvenido, Player343 a ZMC
+[10:52:52] [Client thread/INFO]: [CHAT] 
+[10:52:52] [Client thread/INFO]: [CHAT]   WEB www.z-mc.net
+[10:52:52] [Client thread/INFO]: [CHAT]   TIENDA shop.z-mc.net
+[10:52:52] [Client thread/INFO]: [CHAT]   DISCORD discord.com/invite/HxUcRtQwS3
+[10:52:52] [Client thread/INFO]: [CHAT] 
+[10:52:52] [Client thread/INFO]: [CHAT] +---------------***---------------+
+[10:52:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:52:52] [Client thread/ERROR]: @ Post render
+[10:52:52] [Client thread/ERROR]: 1283: Stack overflow
+[10:52:54] [Client thread/INFO]: [CHAT] Inicia sesión con "/login contraseña"
+[10:52:57] [Client thread/INFO]: [CHAT] Inicia sesión con "/login contraseña"
+[10:52:58] [Client thread/INFO]: [CHAT] ¡Sesión iniciada!
+[10:53:05] [Client thread/INFO]: [CHAT] [ChatColor] El color de tu chat actual es: este.
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeObjective(Scoreboard.java:218) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleScoreboardObjective(NetHandlerPlayClient.java:1887) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:64) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeObjective(Scoreboard.java:218) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleScoreboardObjective(NetHandlerPlayClient.java:1887) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:64) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:53:05] [Client thread/INFO]: [CHAT] + [Afrodita] Player343
+[10:53:05] [Client thread/INFO]: [CHAT] Ingresaste al torneo de Guardianes.
+[10:53:05] [Client thread/INFO]: [CHAT] Ingresaste al torneo de Mineria.
+[10:53:05] [Client thread/INFO]: [CHAT] Ingresaste al torneo de ChatGame.
+[10:53:05] [Client thread/INFO]: [CHAT] Ingresaste al torneo de Tiempo Online.
+[10:53:05] [Client thread/INFO]: [CHAT] Ingresaste al torneo de Suministros.
+[10:53:23] [Client thread/INFO]: [CHAT] [Maffia] [?] [Urano] Galactus » fumo
+[10:53:29] [Client thread/INFO]: [CHAT] [Maffia] [?Arcade?] [Cronos] zParzy_ » como?
+[10:53:36] [Client thread/INFO]: [CHAT] [Maffia] [Hades] ManoloOmg » como hacemos para hablar solo entre nosotros ?
+[10:53:52] [Client thread/INFO]: [CHAT] [Maffia] [?] [Urano] Galactus » */gc messageç
+[10:53:54] [Client thread/INFO]: [CHAT] [Maffia] [?] [Urano] Galactus » */gc message
+[10:53:57] [Client thread/INFO]: [CHAT] - [Cronos] zParzy_
+[10:53:59] [Client thread/INFO]: [CHAT] [Maffia] [Hades] ManoloOmg » aa ya
+[10:54:13] [Client thread/INFO]: [CHAT] [Maffia] [?] [Urano] Galactus » */gc message laburen pa
+[10:54:14] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:14] [Client thread/INFO]: [CHAT] + [Cronos] zParzy_
+[10:54:16] [Client thread/INFO]: [CHAT] [Maffia] [?] [Urano] Galactus » asi
+[10:54:20] [Client thread/INFO]: Connecting to play.z-mc.net, 25565
+[10:54:20] [Client thread/INFO]: [CHAT] + Player343 se ha conectado
+[10:54:20] [Client thread/INFO]: [CHAT] +---------------***---------------+
+[10:54:20] [Client thread/INFO]: [CHAT] 
+[10:54:20] [Client thread/INFO]: [CHAT]     Bienvenido, Player343 a ZMC
+[10:54:20] [Client thread/INFO]: [CHAT] 
+[10:54:20] [Client thread/INFO]: [CHAT]   WEB www.z-mc.net
+[10:54:20] [Client thread/INFO]: [CHAT]   TIENDA shop.z-mc.net
+[10:54:20] [Client thread/INFO]: [CHAT]   DISCORD discord.com/invite/HxUcRtQwS3
+[10:54:20] [Client thread/INFO]: [CHAT] 
+[10:54:20] [Client thread/INFO]: [CHAT] +---------------***---------------+
+[10:54:22] [Client thread/INFO]: [CHAT] Inicia sesión con "/login contraseña"
+[10:54:25] [Client thread/INFO]: [CHAT] Inicia sesión con "/login contraseña"
+[10:54:26] [Client thread/INFO]: [CHAT] ¡Sesión iniciada!
+[10:54:30] [Client thread/INFO]: [CHAT] Please wait for 0 minutes and 1 seconds.
+[10:54:30] [Client thread/INFO]: [CHAT] [ChatColor] El color de tu chat actual es: este.
+[10:54:30] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:30] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:30] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:30] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:30] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:30] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeObjective(Scoreboard.java:218) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleScoreboardObjective(NetHandlerPlayClient.java:1887) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:64) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:30] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeObjective(Scoreboard.java:218) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleScoreboardObjective(NetHandlerPlayClient.java:1887) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:64) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:30] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:30] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:31] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:31] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:31] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:31] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:31] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:31] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:31] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:31] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:31] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:31] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:31] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:31] [Client thread/INFO]: [CHAT] + [Afrodita] Player343
+[10:54:39] [Client thread/INFO]: [CHAT] [Maffia] [?] [Urano] Galactus » jajajaja
+[10:54:40] [Client thread/INFO]: [CHAT] - [Cronos] zParzy_
+[10:54:51] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:54:51] [Client thread/INFO]: [CHAT] + [Cronos] zParzy_
+[10:54:58] [Client thread/INFO]: Connecting to play.z-mc.net, 25565
+[10:54:58] [Client thread/INFO]: [CHAT] + Player343 se ha conectado
+[10:54:59] [Client thread/INFO]: [CHAT] +---------------***---------------+
+[10:54:59] [Client thread/INFO]: [CHAT] 
+[10:54:59] [Client thread/INFO]: [CHAT]     Bienvenido, Player343 a ZMC
+[10:54:59] [Client thread/INFO]: [CHAT] 
+[10:54:59] [Client thread/INFO]: [CHAT]   WEB www.z-mc.net
+[10:54:59] [Client thread/INFO]: [CHAT]   TIENDA shop.z-mc.net
+[10:54:59] [Client thread/INFO]: [CHAT]   DISCORD discord.com/invite/HxUcRtQwS3
+[10:54:59] [Client thread/INFO]: [CHAT] 
+[10:54:59] [Client thread/INFO]: [CHAT] +---------------***---------------+
+[10:55:01] [Client thread/INFO]: [CHAT] Inicia sesión con "/login contraseña"
+[10:55:03] [Client thread/INFO]: [CHAT] ¡Sesión iniciada!
+[10:55:09] [Client thread/INFO]: [CHAT] [ChatColor] El color de tu chat actual es: este.
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeObjective(Scoreboard.java:218) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleScoreboardObjective(NetHandlerPlayClient.java:1887) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:64) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScoreObjective.getName()" because "p_96519_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeObjective(Scoreboard.java:218) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleScoreboardObjective(NetHandlerPlayClient.java:1887) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:64) ~[bin/:?]
+	at net.minecraft.network.play.server.S3BPacketScoreboardObjective.processPacket(S3BPacketScoreboardObjective.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:20) [bin/:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1095) [bin/:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:422) [bin/:?]
+	at net.minecraft.client.main.Main.main(Main.java:113) [bin/:?]
+	at Start.main(Start.java:11) [bin/:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.scoreboard.ScorePlayerTeam.getRegisteredName()" because "p_96511_1_" is null
+	at net.minecraft.scoreboard.Scoreboard.removeTeam(Scoreboard.java:296) ~[bin/:?]
+	at net.minecraft.client.network.NetHandlerPlayClient.handleTeams(NetHandlerPlayClient.java:1996) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:140) ~[bin/:?]
+	at net.minecraft.network.play.server.S3EPacketTeams.processPacket(S3EPacketTeams.java:1) ~[bin/:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[bin/:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.util.Util.func_181617_a(Util.java:19) ~[bin/:?]
+	... 4 more
+[10:55:09] [Client thread/INFO]: [CHAT] + [Afrodita] Player343
+[10:55:31] [Client thread/INFO]: Connecting to play.z-mc.net, 25565
+[10:55:31] [Client thread/INFO]: [CHAT] + Player343 se ha conectado
+[10:55:31] [Client thread/INFO]: [CHAT] +---------------***---------------+
+[10:55:31] [Client thread/INFO]: [CHAT] 
+[10:55:31] [Client thread/INFO]: [CHAT]     Bienvenido, Player343 a ZMC
+[10:55:31] [Client thread/INFO]: [CHAT] 
+[10:55:31] [Client thread/INFO]: [CHAT]   WEB www.z-mc.net
+[10:55:31] [Client thread/INFO]: [CHAT]   TIENDA shop.z-mc.net
+[10:55:31] [Client thread/INFO]: [CHAT]   DISCORD discord.com/invite/HxUcRtQwS3
+[10:55:31] [Client thread/INFO]: [CHAT] 
+[10:55:31] [Client thread/INFO]: [CHAT] +---------------***---------------+
+[10:55:33] [Client thread/INFO]: [CHAT] Inicia sesión con "/login contraseña"
+[10:55:36] [Client thread/INFO]: [CHAT] Inicia sesión con "/login contraseña"
+[10:55:39] [Client thread/INFO]: [CHAT] Inicia sesión con "/login contraseña"
+[10:55:42] [Client thread/INFO]: [CHAT] Inicia sesión con "/login contraseña"
+[10:55:43] [Client thread/INFO]: [CHAT] ¡Sesión iniciada!
+[10:55:48] [Client thread/INFO]: [CHAT] + [A] Player343
+[10:55:48] [Client thread/INFO]: [CHAT] Bienvenido [A] Player343 a Prison OP!
+[10:55:50] [Client thread/INFO]: [CHAT] [0][Quispe] [iiNeonii] [R] Expurgators » Cual te pinta xd
+[10:55:51] [Client thread/INFO]: [CHAT] [0][Papus] [iiEtherii] [O] zHqmbruna_ » jaja dato
+[10:55:54] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [T] AlexanderGamer » ksa yo
+[10:55:55] [Client thread/INFO]: [CHAT] [ZMC] Coloca el cursor sobre la palabra para escribir!
+[10:55:58] [Client thread/INFO]: [CHAT] [ZMC] B4dL1f3 gano en 2.98 segundos!
+[10:56:00] [Client thread/INFO]: [CHAT] [0][Peppa] [iiEtherii] [M] NeiPc » polonia
+[10:56:01] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [N] KEOOOPS » que mencionas a tu papa alex
+[10:56:06] [Client thread/INFO]: [CHAT] [0][Kiler] [Argentina] [P] B4dL1f3 » papa xd
+[10:56:09] [Client thread/INFO]: [CHAT] [0][Kiler] [Argentina] [P] B4dL1f3 » si no toca en mmc
+[10:56:12] [Client thread/INFO]: [CHAT] [0][Kiler] [Argentina] [P] B4dL1f3 » KSA MRD
+[10:56:12] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [N] KEOOOPS » te lleva de dog
+[10:56:15] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [T] AlexanderGamer » si nunca fuiste
+[10:56:16] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [N] KEOOOPS » tu tampoco tocas en mmc
+[10:56:18] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [T] AlexanderGamer » te cagaste xd
+[10:56:18] [Client thread/INFO]: [CHAT] [0][Kiler] [Argentina] [P] B4dL1f3 » vamos? xd
+[10:56:19] [Client thread/INFO]: [CHAT] El teletransporte comenzará en 3 segundos. Por favor, no te muevas.
+[10:56:20] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [N] KEOOOPS » 8-2
+[10:56:20] [Client thread/INFO]: [CHAT] Petición de teletransporte cancelada.
+[10:56:22] [Client thread/INFO]: [CHAT] Ranks Â» MundoGaturro subio al rango [G]
+[10:56:23] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [T] AlexanderGamer » "no me anda lunar"
+[10:56:26] [Client thread/INFO]: [CHAT] [0][Papus] [iiEtherii] [O] zHqmbruna_ » muy facil el pvp chicos, no vuelvas a bajar sin permiso keops
+[10:56:29] [Client thread/INFO]: [CHAT] [0][iiVoltii] [G] MundoGaturro » jajaja te gano el KEOOOPS B4dL1f3
+[10:56:29] [Client thread/INFO]: [CHAT] El teletransporte comenzará en 3 segundos. Por favor, no te muevas.
+[10:56:30] [Client thread/INFO]: [CHAT] Petición de teletransporte cancelada.
+[10:56:35] [Client thread/INFO]: [CHAT] [0][Kiler] [Argentina] [P] B4dL1f3 » seguro ya se te acabo el tiempo de la generada AlexanderGamer
+[10:56:35] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [N] KEOOOPS » 8-2 la basura esa
+[10:56:39] [Client thread/INFO]: [CHAT] [0][Kiler] [Argentina] [P] B4dL1f3 » MundoGaturro xd
+[10:56:40] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [N] KEOOOPS » JAJAJAJAJA
+[10:56:40] [Client thread/INFO]: [CHAT] El teletransporte comenzará en 3 segundos. Por favor, no te muevas.
+[10:56:43] [Client thread/INFO]: [CHAT] Teletransportando...
+[10:56:43] [Client thread/INFO]: [CHAT] ZMC Teletransportadote a a...
+[10:56:48] [Client thread/INFO]: [CHAT] [0][Kiler] [Argentina] [P] B4dL1f3 » yo solo queria ganarle frente al peruano mayor
+[10:56:51] [Client thread/INFO]: [CHAT] [0][Kiler] [Argentina] [P] B4dL1f3 » y listo x
+[10:56:52] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [N] KEOOOPS » MundoGaturro es lo que pasa cuando no tienes manos...
+[10:56:55] [Client thread/INFO]: [CHAT] [0][Kiler] [Argentina] [P] B4dL1f3 » xdxd
+[10:56:56] [Client thread/INFO]: [CHAT] $100 han sido agregados a tu cuenta.
+[10:56:56] [Client thread/INFO]: [CHAT] Felicidades minaste tus primeros 100 bloques!
+[10:56:58] [Client thread/INFO]: [CHAT] [0][iiVoltii] [G] MundoGaturro » callate man, no me menciones
+[10:56:59] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [N] KEOOOPS » perdi un duel y esta orgulloso!
+[10:56:59] [Client thread/INFO]: [CHAT] [0][Papus] [iiEtherii] [O] zHqmbruna_ » A CASAAAA
+[10:57:09] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [N] KEOOOPS » XD
+[10:57:09] [Client thread/INFO]: [CHAT] + 1 JackHammer. - 150,000,000.
+[10:57:10] [Client thread/INFO]: [CHAT] + 1 JackHammer. - 300,000,000.
+[10:57:10] [Client thread/INFO]: [CHAT] + 1 JackHammer. - 450,000,000.
+[10:57:10] [Client thread/INFO]: [CHAT] + 1 JackHammer. - 600,000,000.
+[10:57:17] [Client thread/INFO]: [CHAT] [0][Kiler] [Argentina] [P] B4dL1f3 » KEOOOPS la boqueaste diciendo "spec zona" "si tienes miedo dime baglife"
+[10:57:21] [Client thread/INFO]: [CHAT] [0][Kiler] [Argentina] [P] B4dL1f3 » -lo termina violando
+[10:57:22] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [N] KEOOOPS » xdd
+[10:57:24] [Client thread/INFO]: [CHAT] [0][Papus] [iiEtherii] [O] zHqmbruna_ » ksa mrd
+[10:57:25] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [N] KEOOOPS » VIOLANDO
+[10:57:28] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [N] KEOOOPS » JAJABJKSJKGBJKADJKBHBJKAHBJK
+[10:57:31] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [N] KEOOOPS » risa me das
+[10:57:35] [Client thread/INFO]: [CHAT] [0][Kiler] [Argentina] [P] B4dL1f3 » llora
+[10:57:41] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [N] KEOOOPS » oye pasame los chits del enano plsplspls
+[10:57:46] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [N] KEOOOPS » pues si iSxtur
+[10:57:48] [Client thread/INFO]: [CHAT] ------------------------
+[10:57:48] [Client thread/INFO]: [CHAT] AUTOSELL
+[10:57:48] [Client thread/INFO]: [CHAT] Ganancia: $26B
+[10:57:48] [Client thread/INFO]: [CHAT] ------------------------
+[10:57:50] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [N] KEOOOPS » es tipico de el
+[10:57:56] [Client thread/INFO]: [CHAT] [0][Kiler] [Argentina] [P] B4dL1f3 » q te gane uno q juega 2 horas de pvp al dia xd
+[10:57:57] [Client thread/INFO]: [CHAT] [0][Papus] [iiEtherii] [O] zHqmbruna_ » Sin que te kickee la consola mochilaoops
+[10:57:59] [Client thread/INFO]: [CHAT] [0][Kiler] [Argentina] [P] B4dL1f3 » re bueno eres
+[10:58:00] [Client thread/INFO]: [CHAT] Tu pickaxe ha subido al nivel 1.
+[10:58:00] [Client thread/INFO]: [CHAT] [!] Recibiste 1x level crates.
+[10:58:04] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [N] KEOOOPS » no soy legit?!?!?!?
+[10:58:05] [Client thread/INFO]: [CHAT] La mina a se reiniciara en 10 segundos.
+[10:58:05] [Client thread/INFO]: [CHAT] [0][Peppa] [iiEtherii] [M] NeiPc » me saca porque si a mi tambien bro....
+[10:58:12] [Client thread/INFO]: [CHAT] La mina a se reiniciara en 3 segundos.
+[10:58:13] [Client thread/INFO]: [CHAT] La mina a se reiniciara en 2 segundos.
+[10:58:14] [Client thread/INFO]: [CHAT] La mina a se reiniciara en 1 segundo.
+[10:58:15] [Client thread/INFO]: [CHAT] La mina a se esta reiniciando.
+[10:58:17] [Client thread/INFO]: [CHAT] Espera que la mina se reinicie por completo.
+[10:58:17] [Client thread/INFO]: [CHAT] Espera que la mina se reinicie por completo.
+[10:58:17] [Client thread/INFO]: [CHAT] Espera que la mina se reinicie por completo.
+[10:58:18] [Client thread/INFO]: [CHAT] Espera que la mina se reinicie por completo.
+[10:58:27] [Client thread/INFO]: [CHAT] [0][Peppa] [iiEtherii] [M] NeiPc » when but, pero when who
+[10:58:37] [Client thread/INFO]: [CHAT] + [U] SkyFyrm
+[10:58:43] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [T] AlexanderGamer » zi
+[10:58:48] [Client thread/INFO]: [CHAT] ------------------------
+[10:58:48] [Client thread/INFO]: [CHAT] AUTOSELL
+[10:58:48] [Client thread/INFO]: [CHAT] Ganancia: $20B
+[10:58:48] [Client thread/INFO]: [CHAT] ------------------------
+[10:58:51] [Client thread/INFO]: [CHAT] [0][LCD] [iiEtherii] [T] AlexanderGamer » las 4 partes
+[10:59:20] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[10:59:20] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[10:59:21] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[10:59:21] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[10:59:22] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[10:59:22] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[10:59:24] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[10:59:24] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[10:59:25] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[10:59:25] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[10:59:26] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[10:59:39] [Client thread/INFO]: [CHAT] [0][Kiler] [Argentina] [P] B4dL1f3 » zHqmbruna_ mrdon
+[10:59:43] [Client thread/INFO]: [CHAT] [0][Kiler] [Argentina] [P] B4dL1f3 » me mataste y tenia el pico
+[10:59:43] [Client thread/INFO]: [CHAT] [0][Papus] [iiEtherii] [O] zHqmbruna_ » que
+[10:59:46] [Client thread/INFO]: [CHAT] [0][Papus] [iiEtherii] [O] zHqmbruna_ » llora!
+[10:59:48] [Client thread/INFO]: [CHAT] ------------------------
+[10:59:48] [Client thread/INFO]: [CHAT] AUTOSELL
+[10:59:48] [Client thread/INFO]: [CHAT] Ganancia: $13B
+[10:59:48] [Client thread/INFO]: [CHAT] ------------------------
+[10:59:50] [Client thread/INFO]: [CHAT] [0][Kiler] [Argentina] [P] B4dL1f3 » pto raro
+[10:59:51] [Client thread/INFO]: [CHAT] + 1 JackHammer. - 750,000,000.
+[10:59:51] [Client thread/INFO]: [CHAT] + 1 JackHammer. - 900,000,000.
+[10:59:51] [Client thread/INFO]: [CHAT] + 1 JackHammer. - 1,050,000,000.
+[10:59:51] [Client thread/INFO]: [CHAT] [0][1Fps] [iiEtherii] [O] xShilent_ » asdas
+[10:59:52] [Client thread/INFO]: [CHAT] + 1 JackHammer. - 1,200,000,000.
+[10:59:52] [Client thread/INFO]: [CHAT] [Tokens] No tienes suficientes tokens. Necesitas 878B tokens.
+[10:59:52] [Client thread/INFO]: [CHAT] [Tokens] No tienes suficientes tokens. Necesitas 878B tokens.
+[10:59:53] [Client thread/INFO]: [CHAT] [Tokens] No tienes suficientes tokens. Necesitas 878B tokens.
+[10:59:53] [Client thread/INFO]: [CHAT] [Tokens] No tienes suficientes tokens. Necesitas 878B tokens.
+[10:59:53] [Client thread/INFO]: [CHAT] [Tokens] No tienes suficientes tokens. Necesitas 878B tokens.
+[10:59:53] [Client thread/INFO]: [CHAT] [Tokens] No tienes suficientes tokens. Necesitas 878B tokens.
+[10:59:53] [Client thread/INFO]: [CHAT] + 1 JackHammer. - 1,350,000,000.
+[10:59:54] [Client thread/INFO]: [CHAT] + 1 JackHammer. - 1,500,000,000.
+[10:59:54] [Client thread/INFO]: [CHAT] + 1 JackHammer. - 1,650,000,000.
+[10:59:54] [Client thread/INFO]: [CHAT] + 1 JackHammer. - 1,800,000,000.
+[10:59:54] [Client thread/INFO]: [CHAT] + 1 JackHammer. - 1,950,000,000.
+[10:59:55] [Client thread/INFO]: [CHAT] + 1 JackHammer. - 2,100,000,000.
+[10:59:55] [Client thread/INFO]: [CHAT] + 1 JackHammer. - 2,250,000,000.
+[10:59:55] [Client thread/INFO]: [CHAT] [Tokens] No tienes suficientes tokens. Necesitas 2.4B tokens.
+[10:59:55] [Client thread/INFO]: [CHAT] [Tokens] No tienes suficientes tokens. Necesitas 2.4B tokens.
+[10:59:56] [Client thread/INFO]: [CHAT] [Tokens] No tienes suficientes tokens. Necesitas 2.4B tokens.
+[10:59:56] [Client thread/INFO]: [CHAT] [Tokens] No tienes suficientes tokens. Necesitas 2.4B tokens.
+[11:00:04] [Client thread/INFO]: [CHAT] Ha habido algunas misiones que se han reiniciado.
+[11:00:09] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[11:00:12] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[11:00:16] [Client thread/INFO]: [CHAT] Ranks Â» Player343 subio al rango [B]
+[11:00:19] [Client thread/INFO]: [CHAT] Ranks Â» Player343 subio al rango [C]
+[11:00:22] [Client thread/INFO]: [CHAT] ------------------------------------
+[11:00:22] [Client thread/INFO]: [CHAT] â–ª Necesitas 50B â›? para subir de rango a [D]
+[11:00:22] [Client thread/INFO]: [CHAT] â–ª Te faltan $23.1B
+[11:00:22] [Client thread/INFO]: [CHAT] ------------------------------------
+[11:00:38] [Client thread/INFO]: [CHAT] [0][iiVoltii] [G] MundoGaturro » pero Yahiko vete a tu mina
+[11:00:42] [Client thread/INFO]: [CHAT] [0][SQU4D] [O] Yahiko » xd
+[11:00:49] [Client thread/INFO]: [CHAT] [0][SQU4D] [O] Yahiko » siempre mino en estas minas xd
+[11:00:49] [Client thread/INFO]: [CHAT] [Misiones] Completaste la mision diaria Minas
+[11:00:51] [Client thread/INFO]: [CHAT] El teletransporte comenzará en 3 segundos. Por favor, no te muevas.
+[11:00:54] [Client thread/INFO]: [CHAT] Teletransportando...
+[11:00:54] [Client thread/INFO]: [CHAT] ZMC Teletransportadote a c...
+[11:00:56] [Client thread/INFO]: [CHAT] [ZMC] Coloca el cursor sobre la palabra para descifrar!
+[11:00:59] [Client thread/INFO]: [CHAT] [ZMC] NeiPc descifro la palabra qatar en 3.42 segundos!
+[11:01:00] [Client thread/INFO]: [CHAT] [0][Peru] [S] LarryKafacha » qatar
+[11:01:00] [Client thread/INFO]: [CHAT] [0][SQU4D] [Peru] [U] SkyFyrm » qatar
+[11:01:00] [Client thread/INFO]: [CHAT] [0][SQU4D] [O] Yahiko » watar
+[11:01:01] [Client thread/INFO]: [CHAT] ------------------------
+[11:01:01] [Client thread/INFO]: [CHAT] AUTOSELL
+[11:01:01] [Client thread/INFO]: [CHAT] Ganancia: $16B
+[11:01:01] [Client thread/INFO]: [CHAT] ------------------------
+[11:01:03] [Client thread/INFO]: [CHAT] [0][Kiler] [Argentina] [P] B4dL1f3 » ra [iiHappyPickii x1]
+[11:01:04] [Client thread/INFO]: [CHAT] [0][SQU4D] [O] Yahiko » :"v
+[11:01:09] [Client thread/INFO]: [CHAT] [0][SQU4D] [O] Yahiko » watar :"v
+[11:01:34] [Client thread/INFO]: [CHAT] + [N] harina_gamer08
+[11:01:41] [Client thread/INFO]: [CHAT] [0][iiVoltii] [N] harina_gamer08 » wa
+[11:01:41] [Client thread/INFO]: [CHAT] Tu pickaxe ha subido al nivel 2.
+[11:01:41] [Client thread/INFO]: [CHAT] [!] Recibiste 2x level crates.
+[11:01:51] [Client thread/INFO]: [CHAT] Ranks Â» Player343 subio al rango [D]
+[11:02:02] [Client thread/INFO]: [CHAT] ------------------------
+[11:02:02] [Client thread/INFO]: [CHAT] AUTOSELL
+[11:02:02] [Client thread/INFO]: [CHAT] Ganancia: $35B
+[11:02:02] [Client thread/INFO]: [CHAT] ------------------------
+[11:02:05] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[11:02:05] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[11:02:06] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[11:02:06] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[11:02:07] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[11:02:07] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[11:02:08] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[11:02:09] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[11:02:09] [Client thread/INFO]: [CHAT] + [S] zStealth_
+[11:02:09] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[11:02:10] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[11:02:10] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[11:02:11] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[11:02:11] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[11:02:13] [Client thread/INFO]: [CHAT] [0][Peppa] [iiEtherii] [M] NeiPc » ya empieza el partida pa
+[11:02:14] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[11:02:14] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[11:02:17] [Client thread/INFO]: [CHAT] [0][Papus] [iiEtherii] [O] zHqmbruna_ » dato
+[11:02:19] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[11:02:20] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[11:02:22] [Client thread/INFO]: [CHAT] [0][Peppa] [iiEtherii] [M] NeiPc » nasheee
+[11:10:41] [Client thread/INFO]: Connecting to play.z-mc.net, 25565
+[11:10:41] [Client thread/INFO]: [CHAT] + Player343 se ha conectado
+[11:10:42] [Client thread/INFO]: [CHAT] +---------------***---------------+
+[11:10:42] [Client thread/INFO]: [CHAT] 
+[11:10:42] [Client thread/INFO]: [CHAT]     Bienvenido, Player343 a ZMC
+[11:10:42] [Client thread/INFO]: [CHAT] 
+[11:10:42] [Client thread/INFO]: [CHAT]   WEB www.z-mc.net
+[11:10:42] [Client thread/INFO]: [CHAT]   TIENDA shop.z-mc.net
+[11:10:42] [Client thread/INFO]: [CHAT]   DISCORD discord.com/invite/HxUcRtQwS3
+[11:10:42] [Client thread/INFO]: [CHAT] 
+[11:10:42] [Client thread/INFO]: [CHAT] +---------------***---------------+
+[11:10:43] [Client thread/INFO]: [CHAT] + fiireagun se ha conectado
+[11:10:43] [Client thread/INFO]: [CHAT] Inicia sesión con "/login contraseña"
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:10:49] [Client thread/ERROR]: @ Post render
+[11:10:49] [Client thread/ERROR]: 1283: Stack overflow
+[11:10:49] [Client thread/INFO]: Stopping!
+[11:10:49] [Client thread/INFO]: SoundSystem shutting down...
+[11:10:50] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[11:10:55] [Client thread/INFO]: Setting user: Player718
+[11:10:55] [Client thread/INFO]: (Session ID is token:0:Player718)
+[11:10:55] [Client thread/INFO]: LWJGL Version: 2.9.4
+[11:10:56] [Client thread/INFO]: Reloading ResourceManager: Default, bSleepdless_1916x10.zip
+[11:10:56] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[11:10:56] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[11:10:56] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[11:10:56] [Thread-5/INFO]: OpenAL initialized.
+[11:10:57] [Sound Library Loader/INFO]: Sound engine started
+[11:10:57] [Client thread/INFO]: Created: 512x512 textures-atlas
+[11:11:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:01] [Client thread/ERROR]: @ Post render
+[11:11:01] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:01] [Client thread/ERROR]: @ Post render
+[11:11:01] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:01] [Client thread/ERROR]: @ Post render
+[11:11:01] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:01] [Client thread/ERROR]: @ Post render
+[11:11:01] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:02] [Client thread/ERROR]: @ Post render
+[11:11:02] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:03] [Client thread/ERROR]: @ Post render
+[11:11:03] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:04] [Client thread/ERROR]: @ Post render
+[11:11:04] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:04] [Client thread/ERROR]: @ Post render
+[11:11:04] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:04] [Client thread/ERROR]: @ Post render
+[11:11:04] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:04] [Client thread/ERROR]: @ Post render
+[11:11:04] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:04] [Client thread/ERROR]: @ Post render
+[11:11:04] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:04] [Client thread/ERROR]: @ Post render
+[11:11:04] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:05] [Client thread/INFO]: Connecting to play.z-mc.net, 25565
+[11:11:05] [Client thread/INFO]: [CHAT] A new §eOptiFine§f version is available: §eHD Ultra I7§f
+[11:11:05] [Client thread/INFO]: [CHAT] §eOpenGL Error§f: 1283 (Stack overflow)
+[11:11:05] [Client thread/INFO]: [CHAT] ZMC» Verificando tu conexion...
+[11:11:07] [Client thread/INFO]: [CHAT] ZMC» Has sido verificado correctamente!
+[11:11:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:09] [Client thread/ERROR]: @ Post render
+[11:11:09] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:09] [Client thread/ERROR]: @ Post render
+[11:11:09] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:09] [Client thread/ERROR]: @ Post render
+[11:11:09] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:09] [Client thread/ERROR]: @ Post render
+[11:11:09] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:09] [Client thread/ERROR]: @ Post render
+[11:11:09] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:09] [Client thread/ERROR]: @ Post render
+[11:11:09] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:09] [Client thread/ERROR]: @ Post render
+[11:11:09] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:09] [Client thread/ERROR]: @ Post render
+[11:11:09] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:09] [Client thread/ERROR]: @ Post render
+[11:11:09] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:09] [Client thread/ERROR]: @ Post render
+[11:11:09] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:09] [Client thread/ERROR]: @ Post render
+[11:11:09] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:09] [Client thread/ERROR]: @ Post render
+[11:11:09] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:09] [Client thread/ERROR]: @ Post render
+[11:11:09] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:09] [Client thread/ERROR]: @ Post render
+[11:11:09] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:10] [Client thread/ERROR]: @ Post render
+[11:11:10] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:10] [Client thread/ERROR]: @ Post render
+[11:11:10] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:10] [Client thread/ERROR]: @ Post render
+[11:11:10] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:10] [Client thread/ERROR]: @ Post render
+[11:11:10] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:10] [Client thread/ERROR]: @ Post render
+[11:11:10] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:10] [Client thread/ERROR]: @ Post render
+[11:11:10] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:10] [Client thread/ERROR]: @ Post render
+[11:11:10] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:10] [Client thread/ERROR]: @ Post render
+[11:11:10] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:10] [Client thread/ERROR]: @ Post render
+[11:11:10] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:10] [Client thread/ERROR]: @ Post render
+[11:11:10] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:11:10] [Client thread/ERROR]: @ Post render
+[11:11:10] [Client thread/ERROR]: 1283: Stack overflow
+[11:11:10] [Client thread/INFO]: Stopping!
+[11:11:10] [Client thread/INFO]: SoundSystem shutting down...
+[11:11:10] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

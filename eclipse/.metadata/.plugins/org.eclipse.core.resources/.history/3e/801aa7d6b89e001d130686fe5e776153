@@ -1,0 +1,105 @@
+package me.gamingblue.Novac.module.combat;
+
+import java.util.Iterator;
+
+import org.lwjgl.input.Keyboard;
+
+import de.Hero.settings.Setting;
+import me.gamingblue.Novac.module.Category;
+import me.gamingblue.Novac.module.Module;
+import me.gamingblue.Novac.utils.Invoker;
+import net.minecraft.client.entity.EntityPlayerSP;
+import net.minecraft.client.settings.KeyBinding;
+import net.minecraft.entity.Entity;
+import net.minecraft.entity.EntityLivingBase;
+import net.minecraft.entity.monster.EntityMob;
+import net.minecraft.entity.passive.EntityAnimal;
+import net.minecraft.network.play.server.S12PacketEntityVelocity;
+import net.minecraft.util.MathHelper;
+import net.minecraft.client.renderer.GlStateManager;
+import net.minecraft.client.renderer.ItemRenderer;
+
+public class KillAura extends Module{
+
+    private float targetYaw;
+    private float targetPitch;
+    private float currentYaw;
+    private float currentPitch;
+    private Setting delay;
+    private Invoker invoker;
+
+    public KillAura()
+    {
+    	super("KillAura", Keyboard.KEY_C, Category.COMBAT);
+    	this.delay = new Setting("Delay", this, 100, 0, 500, true);
+    	this.invoker = new Invoker();
+    	}public void onDisable() {
+    	    mc.gameSettings.keyBindUseItem.pressed = false;
+    	}
+
+    	@Override
+    	public void onUpdate() {
+    	    if(!this.isToggled()) return;
+    	    for(Iterator<Entity> entities = mc.theWorld.loadedEntityList.iterator(); entities.hasNext();) {
+
+    	        Object theObject = entities.next();
+    	        if(theObject instanceof EntityLivingBase) {
+    	            EntityLivingBase entity = (EntityLivingBase) theObject;
+    	            if(entity instanceof EntityPlayerSP) continue;
+    	            if(mc.thePlayer.getDistanceToEntity(entity) < 3.0173613F) {
+    	                if(entity.isEntityAlive()) {
+    	                    mc.playerController.attackEntity(mc.thePlayer, entity);
+    	                    mc.thePlayer.swingItem();
+    	                    // mc.gameSettings.keyBindUseItem.pressed = true;
+    	                    invoker.invoke(() -> {
+    	                        mc.gameSettings.keyBindUseItem.pressed = true;
+    	                    }, delay.getValInt());
+    	                    if(entity.hurtTime > 1) {
+    	                        invoker.invoke(() -> {
+    	                            mc.gameSettings.keyBindUseItem.pressed = false;
+    	                        }, delay.getValInt());
+    	                    }
+    	                }else {
+    	                    mc.gameSettings.keyBindUseItem.pressed = false;
+    	                }
+
+    	                //Calculate the angle to the target entity
+    	                double xDiff = entity.posX - mc.thePlayer.posX;
+    	                double zDiff = entity.posZ - mc.thePlayer.posZ;
+    	                double yDiff = entity.posY + entity.getEyeHeight() - (mc.thePlayer.posY + mc.thePlayer.getEyeHeight());
+    	                double dist = Math.sqrt(xDiff * xDiff + zDiff * zDiff);
+
+    	                targetYaw = (float) Math.toDegrees(Math.atan2(zDiff, xDiff)) - 90;
+    	                targetPitch = (float) Math.toDegrees(Math.atan2(dist, yDiff));
+
+    	                // gradually rotate towards target
+    	                currentYaw = rotateTo(currentYaw, targetYaw, 3);
+    	                currentPitch = rotateTo(currentPitch, targetPitch, 3);
+
+    	                // apply rotation
+    	                mc.thePlayer.setAngles(currentYaw, currentPitch);
+
+    	                }          
+    	        }
+    	    }
+    	    super.onUpdate();
+    	}
+
+    	public float rotateTo(float current, float target, float speed) {
+    	    float angle = Math.abs(target - current) % 360;
+    	    if (angle > 180) {
+    	        angle = 360 - angle;
+    	    }
+    	    if (angle > speed) {
+    	        if (target > current) {
+    	            current += speed;
+    	        } else {
+    	            current -= speed;
+    	        }
+    	    } else {
+    	        current = target;
+    	    }
+    	    return (current + 180) % 360 - 180;
+
+    	}
+}

@@ -1,0 +1,25 @@
+package me.gamingblue.Novac.module.movement;
+
+import me.gamingblue.Novac.module.Category;
+import me.gamingblue.Novac.module.Module;
+
+public class AutoWalk extends Module{
+
+	public AutoWalk() {
+		super("AutoWalk", 0, Category.MOVEMENT);
+	}
+	
+	@Override
+	public void onUpdate() {
+		if(this.isToggled()) {
+			mc.gameSettings.keyBindForward.pressed = true;
+			mc.gameSettings.keyBindRight.pressed = true;
+		}
+	}
+	@Override
+	public void onDisable() {
+		mc.gameSettings.keyBindForward.pressed = false;
+		super.onDisable();
+	}
+
+}

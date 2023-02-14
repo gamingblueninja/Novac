@@ -1,0 +1,59 @@
+---- Minecraft Crash Report ----
+// Why did you do that?
+
+Time: 2023-01-30, 7:18 p.m.
+Description: Initializing game
+
+java.lang.NullPointerException: Cannot invoke "net.minecraft.entity.EntityLivingBase.getName()" because the return value of "me.gamingblue.Novac.utils.Invoker.getCurrentTarget()" is null
+	at me.gamingblue.Novac.module.render.NameTags.<init>(NameTags.java:13)
+	at me.gamingblue.Novac.module.ModuleManager.<init>(ModuleManager.java:59)
+	at me.gamingblueninja.Novac.Novac.startClient(Novac.java:30)
+	at net.minecraft.client.Minecraft.startGame(Minecraft.java:567)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:402)
+	at net.minecraft.client.main.Main.main(Main.java:113)
+	at Start.main(Start.java:11)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at me.gamingblue.Novac.module.render.NameTags.<init>(NameTags.java:13)
+	at me.gamingblue.Novac.module.ModuleManager.<init>(ModuleManager.java:59)
+	at me.gamingblueninja.Novac.Novac.startClient(Novac.java:30)
+	at net.minecraft.client.Minecraft.startGame(Minecraft.java:567)
+
+-- Initialization --
+Details:
+Stacktrace:
+	at net.minecraft.client.Minecraft.run(Minecraft.java:402)
+	at net.minecraft.client.main.Main.main(Main.java:113)
+	at Start.main(Start.java:11)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8.8
+	Operating System: Windows 10 (amd64) version 10.0
+	CPU: 8x Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
+	Java Version: 17.0.5, Eclipse Adoptium
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Eclipse Adoptium
+	Memory: 938231296 bytes (894 MB) / 1073741824 bytes (1024 MB) up to 1073741824 bytes (1024 MB)
+	JVM Flags: 3 total; -XX:+ShowCodeDetailsInExceptionMessages -Xmx1024M -Xms1024M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	Launched Version: mcp
+	LWJGL: 2.9.4
+	OpenGL: NVIDIA GeForce RTX 3060/PCIe/SSE2 GL version 4.6.0 NVIDIA 527.56, NVIDIA Corporation
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: No
+	Is Modded: Very likely; Jar signature invalidated
+	Type: Client (map_client.txt)
+	Resource Packs: bSleepdless_1916x10.zip
+	Current Language: Canadian English (Canada)
+	Profiler Position: N/A (disabled)
+	CPU: 8x Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
